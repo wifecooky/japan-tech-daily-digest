@@ -2,7 +2,7 @@
 # ── Identity ──
 site:
   id: japan-tech
-  url: https://news.japan-tech.thewang.net
+  url: https://news.jptech.thewang.net
   title:
     en: 'Japan Tech Daily Digest'
     zh: '日本科技日知录'
