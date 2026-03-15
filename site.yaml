@@ -1,0 +1,135 @@
+# site.yaml — Japan Tech Daily Digest
+# ── Identity ──
+site:
+  id: japan-tech
+  url: https://news.japan-tech.thewang.net
+  title:
+    en: 'Japan Tech Daily Digest'
+    zh: '日本科技日知录'
+    ja: '日本テック日知録'
+  subtitle:
+    en: 'Japan tech scene, daily.'
+    zh: '每天五分钟，掌握日本科技圈动态'
+    ja: '日本のテック情報を毎日お届け'
+  description:
+    en: 'Daily curated Japan tech news. Covering Hatena Bookmark, Zenn, Qiita, PublicKey, and Japanese tech media.'
+    zh: '日本科技日报 — 每天精选日本科技圈动态，覆盖はてなブックマーク、Zenn、Qiita、PublicKey 等日本技术媒体。'
+    ja: '日本テック厳選日刊ダイジェスト。はてなブックマーク、Zenn、Qiita、PublicKeyなど日本の技術メディアから毎日配信。'
+  keywords:
+    en: 'Japan tech news, Japanese technology, Hatena, Zenn, Qiita, PublicKey, daily digest'
+    zh: '日本科技新闻, 日本技术, はてな, Zenn, Qiita, PublicKey, 每日简报'
+    ja: '日本テックニュース, はてな, Zenn, Qiita, PublicKey, デイリーダイジェスト'
+  hashtag:
+    en: '#JapanTechDigest'
+    zh: '#日本科技日知录'
+    ja: '#日本テック日知録'
+
+# ── Theme ──
+theme:
+  style: minimal
+  fonts:
+    display: "'Noto Sans JP', system-ui, sans-serif"
+    sans: "'Noto Sans JP', 'Noto Sans SC', system-ui, sans-serif"
+    mono: "'JetBrains Mono', ui-monospace, monospace"
+    google: "family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700"
+  colors:
+    dark:
+      bg: '#0f1318'
+      surface: '#171d26'
+      surface2: '#1e2633'
+      border: '#2a3545'
+      borderGlow: '#4A90D922'
+      text: '#c8d4e0'
+      textMuted: '#5a7090'
+      accent: '#4A90D9'
+      secondary: '#E8556D'
+      green: '#50C878'
+      amber: '#F0A830'
+      heading: '#f0f4f8'
+    light:
+      bg: '#f5f7fa'
+      surface: '#ffffff'
+      surface2: '#edf0f5'
+      border: '#d0d8e2'
+      borderGlow: '#4A90D918'
+      text: '#2a3442'
+      textMuted: '#5a6a80'
+      accent: '#2d6ab5'
+      secondary: '#c43050'
+      green: '#2e8b57'
+      amber: '#d48c00'
+      heading: '#0f1a2a'
+
+# ── Data Sources ──
+sources:
+  rss:
+    - { url: 'https://b.hatena.ne.jp/hotentry/it.rss', name: 'はてブ Tech', weight: 10 }
+    - { url: 'https://zenn.dev/feed', name: 'Zenn', weight: 9 }
+    - { url: 'https://qiita.com/popular-items/feed', name: 'Qiita Popular', weight: 9 }
+    - { url: 'https://www.publickey1.jp/atom.xml', name: 'PublicKey', weight: 9 }
+    - { url: 'https://techblog.yahoo.co.jp/index.xml', name: 'Yahoo Japan Tech', weight: 7 }
+    - { url: 'https://engineering.mercari.com/blog/feed.xml', name: 'Mercari Engineering', weight: 7 }
+    - { url: 'https://techlife.cookpad.com/rss', name: 'Cookpad Tech', weight: 7 }
+    - { url: 'https://developers.cyberagent.co.jp/blog/feed/', name: 'CyberAgent Developers', weight: 7 }
+    - { url: 'https://engineer.retty.me/feed', name: 'Retty Tech', weight: 6 }
+    - { url: 'https://news.google.com/rss/search?q=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0+OR+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2+OR+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89+OR+AI%E6%8A%80%E8%A1%93&hl=ja&gl=JP&ceid=JP:ja', name: 'Google News Japan Tech', weight: 6 }
+    - { url: 'https://news.google.com/rss/search?q=Japan+technology+OR+Japanese+tech+startups&hl=en-US&gl=US&ceid=US:en', name: 'Google News Japan Tech (EN)', weight: 6 }
+    - { url: 'https://news.google.com/rss/search?q=%E6%97%A5%E6%9C%AC%E7%A7%91%E6%8A%80+OR+%E6%97%A5%E6%9C%AC%E6%8A%80%E6%9C%AF&hl=zh-CN&gl=CN&ceid=CN:zh-Hans', name: 'Google News Japan Tech (CN)', weight: 6 }
+
+  hackernews:
+    enabled: true
+    query: 'Japan technology OR Japanese startup OR Tokyo tech'
+    weight: 7
+
+  huggingface:
+    enabled: false
+    weight: 0
+
+# ── Editorial ──
+editorial:
+  prompt: config/prompts/editorial.md
+  min_articles: 3
+  featured_count: [2, 3]
+  quicknews_count: [4, 6]
+
+# ── Labels ──
+labels:
+  featured: { en: 'FEATURED', zh: '深度解读', ja: '特集' }
+  signal: { en: 'SIGNAL', zh: '信号', ja: 'シグナル' }
+  archive: { en: 'ARCHIVE', zh: '往期', ja: 'アーカイブ' }
+  backToday: { en: 'BACK TO TODAY', zh: '返回今日', ja: '今日に戻る' }
+  empty: { en: 'NO SIGNAL TODAY.', zh: '// 今日无信号', ja: '// 本日シグナルなし' }
+  sources: { en: 'sources scanned', zh: '条资讯已扫描', ja: '件スキャン済み' }
+  fromSources: { en: 'SRC', zh: '来源', ja: 'SRC' }
+  subscribe: { en: 'SUBSCRIBE', zh: '订阅', ja: '購読' }
+  emailPlaceholder: { en: 'you@example.com', zh: '你的邮箱', ja: 'メールアドレス' }
+  stayUpdated: { en: 'STAY UPDATED', zh: '保持关注', ja: '最新情報を受け取る' }
+  stayUpdatedDesc:
+    en: 'Daily Japan tech digest, straight to your inbox.'
+    zh: '每日日本科技简报，直达邮箱。'
+    ja: '日本テックの日刊ダイジェストをメールでお届け。'
+  cta: { en: 'READ FULL DIGEST', zh: '阅读完整日报', ja: '全文を読む' }
+
+sponsor: null
+
+newsletter:
+  provider: buttondown
+  username: thewang
+
+about:
+  title: { en: 'HOW IT WORKS', zh: '运作方式', ja: '仕組み' }
+  overview:
+    en: 'Japan Tech Daily Digest is a fully automated Japanese tech news briefing. Every day, the system collects articles from Hatena Bookmark, Zenn, Qiita, PublicKey, and Japanese tech company blogs — then scores and filters them through a multi-stage AI pipeline.'
+    zh: '日本科技日知录是一份全自动的日本科技日报。系统每天从はてなブックマーク、Zenn、Qiita、PublicKey 和日本科技企业博客采集文章，经过多阶段 AI 流水线评分筛选。'
+    ja: '日本テック日知録は完全自動化された日本のテックニュースブリーフィングです。はてなブックマーク、Zenn、Qiita、PublicKey、日本の技術企業ブログから毎日記事を収集し、多段階AIパイプラインで評価・フィルタリングします。'
+  policyAudience:
+    en: 'Target audience: Engineers working in Japan and those interested in the Japanese tech ecosystem.'
+    zh: '目标读者：在日工程师和对日本科技生态感兴趣的人。'
+    ja: '対象読者：日本で働くエンジニアおよび日本のテックエコシステムに関心がある方。'
+  disclaimer:
+    en: 'Headlines and analysis paragraphs are generated by AI and may contain inaccuracies. All original reporting belongs to their respective sources.'
+    zh: '标题和分析段落由 AI 生成，可能存在不准确之处。所有原始报道版权归各自来源所有。'
+    ja: '見出しと分析パラグラフはAIにより生成されており、不正確な場合があります。すべてのオリジナル記事は各ソースに帰属します。'
+
+schedule:
+  cron: '0 7 * * *'
