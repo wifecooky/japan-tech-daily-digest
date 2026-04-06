@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-06",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "16f6a2516430a5df8c39ea7578ea1ab738cc96d76331528165a03758f9d65def",
+      "source": "CyberAgent Developers",
+      "title": "WINTICKET Web リージョン障害対策――Weighted Backend Service とサーバーレス NEG の外れ値検出",
+      "url": "https://developers.cyberagent.co.jp/blog/archives/63291/",
+      "summary": "目次 はじめに 課題と前提 Weighted Backend Service によるルーティング制御 ...",
+      "publishedAt": "2026-04-06T06:47:06.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "WINTICKET Web リージョン障害対策――Weighted Backend Service とサーバーレス NEG の外れ値検出",
+      "suggestedSummary": "目次 はじめに 課題と前提 Weighted Backend Service によるルーティング制御 ...",
+      "category": "featured"
+    },
+    {
+      "id": "24b4b900a7c363d54e5fed0d891d4b8069d8de7a5abf290c94bde730ef378712",
+      "source": "Google News Japan Tech",
+      "title": "U-22プログラミング・コンテスト2026開催サイトをオープンし、応募要項を公開！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54MV9KV1dUNHYxMnJtdGZ0dWZiS0ZiTUdTa01DaHRmSm5CZmx2R0dnSUhQR1NFZ0VVMWUyUlpQTFJJRW83WWVUbWQzSkJMbTlUZ1pweUJuRGNZbmJ4eHlwUnlyNThhaTY3NVE?oc=5",
+      "summary": "U-22プログラミング・コンテスト2026開催サイトをオープンし、応募要項を公開！  PR TIMES",
+      "publishedAt": "2026-04-06T04:10:01.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "U-22プログラミング・コンテスト2026開催サイトをオープンし、応募要項を公開！ - PR TIMES",
+      "suggestedSummary": "U-22プログラミング・コンテスト2026開催サイトをオープンし、応募要項を公開！  PR TIMES",
+      "category": "featured"
+    },
+    {
+      "id": "18a0e691dd2bf5aa18e1d13e4505aac3e19a6a0c1dc2cd4ae2ad42f783dfb8fb",
+      "source": "Google News Japan Tech",
+      "title": "検査や制御、保全にも 製造現場向けAI技術まとめ：電子ブックレット（FA） - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52U0NWaVhlN2hrQWRYX0hNOXlLY2lDVTdWUXNoTE81bEpkYUI1UllSaEdjS1dyZjF2VGxJcm5qNmNhdm9UTmx4NFZ1d05ncFpFT0oxUHF5SFVpR2dyWFZzS1hkVkxzcFpwT3BqV1M1TQ?oc=5",
+      "summary": "検査や制御、保全にも 製造現場向けAI技術まとめ：電子ブックレット（FA）  MONOist",
+      "publishedAt": "2026-04-06T03:30:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "検査や制御、保全にも 製造現場向けAI技術まとめ：電子ブックレット（FA） - MONOist",
+      "suggestedSummary": "検査や制御、保全にも 製造現場向けAI技術まとめ：電子ブックレット（FA）  MONOist",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "f9aa6965783705a9818de5db4cf78b12192a6a5c50332dbf14661cbed9dc4e85",
+      "source": "Google News Japan Tech",
+      "title": "ＨＥＲＯＺー続伸 ＫＳＡインターナショナルとAI技術で輸出管理業務を革新(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlY5SC15eGhWTVJ0a2V4eUNkR2g5NnA2M0NzM2w5VUZzNWYwMldWLWJHeXNvOWRyRHZYaXo3QkR2LUJDVWxLbVlpUHR6S1lTTmxWcXNVNzJhbzAxOVU2RkVnc2lxX2hCMTlnemZ2WEJ1UzhGODJjeWZ2NDZLQXA5anpJWVVUcFU?oc=5",
+      "summary": "ＨＥＲＯＺー続伸 ＫＳＡインターナショナルとAI技術で輸出管理業務を革新(トレーダーズ・ウェブ)  Yahoo!ファイナンス",
+      "publishedAt": "2026-04-06T03:32:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "91ba2ad98e77248d2824e8da8f78b741aef31207bc19fc03ef98e0e996a6623e",
+      "source": "Google News Japan Tech",
+      "title": "最高ではなく最適を目指す！ アリババクラウドで実現する柔軟・低コストなAI開発 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hUm9PQm83eHltYWx1dXZMMW9SRGNPU0pvR1ZiSHlNa1dVNG42MGRtVzBjMjFXcWpEYS1MODEwZG5KeTdlVHFOQ3pUdnNlSGdOb3c?oc=5",
+      "summary": "最高ではなく最適を目指す！ アリババクラウドで実現する柔軟・低コストなAI開発  CodeZine",
+      "publishedAt": "2026-04-06T04:09:23.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "b9c0174e5c4b4ce547f9883d537b1b4541912a42242f1ff0d16f6ae4d42bb502",
+      "source": "Google News Japan Tech",
+      "title": "「クラウド活用最前線 はじめてのさくらのクラウドと増えるアクセスにきちんと備える運用」を開催いたします - さくらインターネット",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWZXMl9TUzByVkV1UzNnNzRSNFB5RjV6OGFUbnV0VUMyaEJkMGc1X2l0ZHlNVTZVUTU4VjJKbnVMc2g5Wll5QVNQWkQ4ODJfTEE4dWxISjJ2MmNyenl4RnJoeDdKTWFRVEJYVHF2aU96cFpsMFRCSmVpRnpRRlY5eU13?oc=5",
+      "summary": "「クラウド活用最前線 はじめてのさくらのクラウドと増えるアクセスにきちんと備える運用」を開催いたします  さくらインターネット",
+      "publishedAt": "2026-04-06T02:35:42.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "418158529774d50156fee2a330afc28edff67e090b47f871c340deaa24b01196",
+      "source": "Google News Japan Tech",
+      "title": "ＨＥＲＯＺ - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Gdk9hNTUzRXBGMERHWm44dUFQME1OVllPZ2s2cWlJY3JLb3FMS2IweF8tcHFqT1RjcTFtd3BGN3VybWt6UjZ0VUZDQ3I3Q3RpaDNReHN6MFM5NVBENGMzWUNnX2otQnNDWmc?oc=5",
+      "summary": "ＨＥＲＯＺ  日本経済新聞",
+      "publishedAt": "2026-04-06T02:45:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "08afa28731a7056697ed081f7cf0dbad4a8abf5750fa42d2522d4df72e479535",
+      "source": "Google News Japan Tech",
+      "title": "リスキル、AI技術を営業活動に実装する「生成AI研修 営業活用編」の提供を開始 - SalesZine",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GNS1NWjFpaERoSlVkM1Y1dnBqb0RxX0ZqZVRETjVESU5id1NFLUR1c0FOSWdTREFyWmNzb21WQnZfRk14d1E2a1NMWmJpdE9CVlE?oc=5",
+      "summary": "リスキル、AI技術を営業活動に実装する「生成AI研修 営業活用編」の提供を開始  SalesZine",
+      "publishedAt": "2026-04-06T07:03:47.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "f7d98ba488684f3a55a851df714c3d2c36e0618e165746cf2ec11e0027c4fe39",
+      "source": "Google News Japan Tech",
+      "title": "さくらインターネットとMRI、デジタルガバメント領域でソブリンクラウド活用を検討すべく協業開始 - enterprisezine.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KM0x3a0Z6ZHhSM2hRNi1Lb1p4cWFLS29XOEgzaG1OSUF4NjhBTmpzTXpmWUlxTlc2NFctSXcwbEhiTVRtNl9BZWpzM2RGcTFVR1ZBQmxB?oc=5",
+      "summary": "さくらインターネットとMRI、デジタルガバメント領域でソブリンクラウド活用を検討すべく協業開始  enterprisezine.jp",
+      "publishedAt": "2026-04-06T04:46:28.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-06T07:40:17.006Z"
+  }
+}
