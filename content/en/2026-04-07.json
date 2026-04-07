@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-07",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "a58d9e445cd927f2f5f204b5706378a08ae131efe1e1b9a1cad598b0c3ff80ba",
+      "source": "Yahoo Japan Tech",
+      "title": "システム設計・開発の実践Tips",
+      "url": "https://techblog.lycorp.co.jp/ja/20260407a",
+      "summary": "こんにちは。ソフトウェアエンジニアの眞井です。私はこれまでアーキテクトとして、検索連動型ショッピング広告のレポートシステムに関連する2つの新規システム開発や、その他数多くの機能追加に携わってきました。...",
+      "publishedAt": "2026-04-07T02:00:00.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "システム設計・開発の実践Tips",
+      "suggestedSummary": "こんにちは。ソフトウェアエンジニアの眞井です。私はこれまでアーキテクトとして、検索連動型ショッピング広告のレポートシステムに関連する2つの新規システム開発や、その他数多くの機能追加に携わってきました。...",
+      "category": "featured"
+    },
+    {
+      "id": "6557fcf3dd8a908f618f3e65b6ab6fb78d15841a38ee9ad43224da4644e58ad6",
+      "source": "Google News Japan Tech",
+      "title": "イベント情報 - 国立大学法人 電気通信大学",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zOXVrWmxXZDBNSExkR0x2bUoxQ1Q2VVdCWGxFWjhmLVRSTFZ6RjFpczJJSFlneE1Ecm5nZ211eUJ2ZktNLWtOZXlWNkdLYWltRDNVWjJCRy0tQTdxVE96UWpXV1E3Nms?oc=5",
+      "summary": "イベント情報  国立大学法人 電気通信大学",
+      "publishedAt": "2026-04-07T06:05:55.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "イベント情報 - 国立大学法人 電気通信大学",
+      "suggestedSummary": "イベント情報  国立大学法人 電気通信大学",
+      "category": "featured"
+    },
+    {
+      "id": "df659633ed5917df2cbe7ed78c6b34612928a57dd99103d04c8347f15469c1af",
+      "source": "Google News Japan Tech",
+      "title": "アルプスアルパイン株式会社が、クラウドサービスのセキュリティ信用評価「Assuredクラウド評価」を導入 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04TW0zc0VVbWt1WmZUal8tNU0ycUFZS0hhM0s1OGx6c3hIX1ZjRzJwaWJnTWpZaUEtTHFmdm1LeUw0Q3JsbW96WnNDVi1BNWRxZmlEMjFKRVNkSXVrUEQySmNrUmgyaHp5Nnc?oc=5",
+      "summary": "アルプスアルパイン株式会社が、クラウドサービスのセキュリティ信用評価「Assuredクラウド評価」を導入  PR TIMES",
+      "publishedAt": "2026-04-07T04:00:02.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "アルプスアルパイン株式会社が、クラウドサービスのセキュリティ信用評価「Assuredクラウド評価」を導入 - PR TIMES",
+      "suggestedSummary": "アルプスアルパイン株式会社が、クラウドサービスのセキュリティ信用評価「Assuredクラウド評価」を導入  PR TIMES",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "e9357fcda1291ca92809d4c85416b88f1e8582eee93e01938335ce25024ae408",
+      "source": "Google News Japan Tech",
+      "title": "ＴＯＰＰＡＮ、非クラウド型透明翻訳ディスプレーの販売開始(ウエルスアドバイザー) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRHFmQjBPWkVIRHRJZXRZQnhXSndiS3lJbkF1SS1KNi1US3FVdDU5T1pTcVZKYWJ1Y1ROQmpzMlUwZldFdzRNSVlENFEtX3ZiQkhqcjU2ZHYwcUhyWjZpZzVVZlU1VXlJZWpLTnFuc3JWd2lIWW5obXdkdDl6YW5XaE9QNUNoTVU?oc=5",
+      "summary": "ＴＯＰＰＡＮ、非クラウド型透明翻訳ディスプレーの販売開始(ウエルスアドバイザー)  Yahoo!ファイナンス",
+      "publishedAt": "2026-04-07T04:34:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5583a8e5e799bd1d53922c8e633fbd22ce75d9c4b8bde8d316a36f04107a7900",
+      "source": "Google News Japan Tech",
+      "title": "高校生と大学生向けのAIプログラミング体験環境を体験しよう。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTE1WUUJCRl82bU9ya3NNOThTN21tWnpqSG1vcG1iOHM5eG02QnpzcGQyYVdsMWlGX3BVbGJSR2plN2dtOHVUZXVnU3FIWjVlNXVNMERaZnU5blI2UUEzOGl1VkxDaVNaT3FIV0NNTGppQjFSN2lJM19wV1BZcGhNMVlZc09veXdZWXVibQ?oc=5",
+      "summary": "高校生と大学生向けのAIプログラミング体験環境を体験しよう。  Vietnam.vn",
+      "publishedAt": "2026-04-07T04:20:16.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "047a33ad0e05d3829b482eae72ca68045a3a65a86536b4340befc39234a372ec",
+      "source": "Google News Japan Tech",
+      "title": "【導入事例】社員2000人規模のＪＢＣＣグループが実践、ゼロトラストで守るクラウド・AI時代のセキュリティ - jbcchd.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uc0VaVW9uTG9uZ2lyQ0JaM21lRHdsZnBnWm5mZEFpbzRWdl9qZ1ZSenM5aEljZ0ZWTHVzYm5oUzMtT2ZNblo4Q1JYS0loN05PYkRkajZLUGtUQkx3NlZua0J3?oc=5",
+      "summary": "【導入事例】社員2000人規模のＪＢＣＣグループが実践、ゼロトラストで守るクラウド・AI時代のセキュリティ  jbcchd.co.jp",
+      "publishedAt": "2026-04-07T04:34:21.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "032a916b03119c5565bddff8fbe555122cd98bb4061eff66a340bc324a6bbddd",
+      "source": "Google News Japan Tech",
+      "title": "U-22プログラミング・コンテスト2026、賞金50万円…応募7/1開始 - リセマム",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50amZLYklyT0h4WVRweWJoZ3RkRGc2a3NkQU9GdTI5MkphWGpKNHVTdHA0MjVsZ3N0U0ZvcHFnMTlyVENjYUZwSjhzU3FPVXhFTWdyT25zMDRLdzlp?oc=5",
+      "summary": "U-22プログラミング・コンテスト2026、賞金50万円…応募7/1開始  リセマム",
+      "publishedAt": "2026-04-07T05:15:03.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "444573aa7c6a19aca098cf8555ca0fe823b2bf6d7a0768e70b04b30e2dc0193a",
+      "source": "Google News Japan Tech",
+      "title": "トヨクモクラウドコネクト、給付金・補助金などの審査業務特化UIプラグインを正式リリース - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdG4xeENFd1V4ODBXMXZlMjUxTWVKYUFGdnFtS3lZYk9jT0pFa2toQi1ScndxY3B2NzZVbTFLNTB1WjBRaWFvSmR3T0RYX3IwM1lR?oc=5",
+      "summary": "トヨクモクラウドコネクト、給付金・補助金などの審査業務特化UIプラグインを正式リリース  ZDNET Japan",
+      "publishedAt": "2026-04-07T05:01:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3ccd3568c04b73342f15abbd7a4dd8c79413ee5cdf1bc7e8baeea85e8bc70865",
+      "source": "Google News Japan Tech",
+      "title": "インゲージ、YOUTRUST「春からユートラストキャンペーン」に参画。AI時代のエンジニア生存戦略を考える特別研修を5/20に開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnRkFnRXBOWFhfODdBRHBGeE5EX1VJVzlmdksxOVhtUmx4NTRRR29uOENQX0N6ckpXcFFMX3RWWEpUUHg4Z3ptckV1NHdZVEp1SFpkNklfNEVVVUFyenBwU0tkdk1vRjFPVWc?oc=5",
+      "summary": "インゲージ、YOUTRUST「春からユートラストキャンペーン」に参画。AI時代のエンジニア生存戦略を考える特別研修を5/20に開催  PR TIMES",
+      "publishedAt": "2026-04-07T04:30:14.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-04-07T07:39:01.346Z"
+  }
+}

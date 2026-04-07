@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-07",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "a58d9e445cd927f2f5f204b5706378a08ae131efe1e1b9a1cad598b0c3ff80ba",
+      "source": "Yahoo Japan Tech",
+      "title": "系统设计与开发的实践技巧",
+      "url": "https://techblog.lycorp.co.jp/ja/20260407a",
+      "summary": "大家好。我是软件工程师真井。作为架构师，我曾参与过与搜索联动型购物广告报告系统相关的两个新系统开发，以及其他许多功能的添加。",
+      "publishedAt": "2026-04-07T02:00:00.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "系统设计与开发的实践技巧",
+      "suggestedSummary": "大家好。我是软件工程师真井。作为架构师，我曾参与过与搜索联动型购物广告报告系统相关的两个新系统开发，以及其他许多功能的添加。",
+      "category": "featured"
+    },
+    {
+      "id": "6557fcf3dd8a908f618f3e65b6ab6fb78d15841a38ee9ad43224da4644e58ad6",
+      "source": "Google News Japan Tech",
+      "title": "活动信息 - 国立大学法人 电气通信大学",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zOXVrWmxXZDBNSExkR0x2bUoxQ1Q2VVdCWGxFWjhmLVRSTFZ6RjFpczJJSFlneE1Ecm5nZ211eUJ2ZktNLWtOZXlWNkdLYWltRDNVWjJCRy0tQTdxVE96UWpXV1E3Nms?oc=5",
+      "summary": "活动信息 国立大学法人 电气通信大学",
+      "publishedAt": "2026-04-07T06:05:55.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "活动信息 - 国立大学法人 电气通信大学",
+      "suggestedSummary": "活动信息 国立大学法人 电气通信大学",
+      "category": "featured"
+    },
+    {
+      "id": "df659633ed5917df2cbe7ed78c6b34612928a57dd99103d04c8347f15469c1af",
+      "source": "Google News Japan Tech",
+      "title": "阿尔卑斯阿尔派公司引入云服务安全信用评估“Assured云评估” - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04TW0zc0VVbWt1WmZUal8tNU0ycUFZS0hhM0s1OGx6c3hIX1ZjRzJwaWJnTWpZaUEtTHFmdm1LeUw0Q3JsbW96WnNDVi1BNWRxZmlEMjFKRVNkSXVrUEQySmNrUmgyaHp5Nnc?oc=5",
+      "summary": "阿尔卑斯阿尔派公司引入云服务安全信用评估“Assured云评估” PR TIMES",
+      "publishedAt": "2026-04-07T04:00:02.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "阿尔卑斯阿尔派公司引入云服务安全信用评估“Assured云评估” - PR TIMES",
+      "suggestedSummary": "阿尔卑斯阿尔派公司引入云服务安全信用评估“Assured云评估” PR TIMES",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "e9357fcda1291ca92809d4c85416b88f1e8582eee93e01938335ce25024ae408",
+      "source": "Google News Japan Tech",
+      "title": "凸版印刷开始销售非云端透明翻译显示器（财富顾问）- 雅虎财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRHFmQjBPWkVIRHRJZXRZQnhXSndiS3lJbkF1SS1KNi1US3FVdDU5T1pTcVZKYWJ1Y1ROQmpzMlUwZldFdzRNSVlENFEtX3ZiQkhqcjU2ZHYwcUhyWjZpZzVVZlU1VXlJZWpLTnFuc3JWd2lIWW5obXdkdDl6YW5XaE9QNUNoTVU?oc=5",
+      "summary": "凸版印刷开始销售非云端透明翻译显示器（财富顾问） 雅虎财经",
+      "publishedAt": "2026-04-07T04:34:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5583a8e5e799bd1d53922c8e633fbd22ce75d9c4b8bde8d316a36f04107a7900",
+      "source": "Google News Japan Tech",
+      "title": "体验面向高中生和大学生的AI编程环境。",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTE1WUUJCRl82bU9ya3NNOThTN21tWnpqSG1vcG1iOHM5eG02QnpzcGQyYVdsMWlGX3BVbGJSR2plN2dtOHVUZXVnU3FIWjVlNXVNMERaZnU5blI2UUEzOGl1VkxDaVNaT3FIV0NNTGppQjFSN2lJM19wV1BZcGhNMVlZc09veXdZWXVibQ?oc=5",
+      "summary": "体验面向高中生和大学生的AI编程环境。 Vietnam.vn",
+      "publishedAt": "2026-04-07T04:20:16.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "047a33ad0e05d3829b482eae72ca68045a3a65a86536b4340befc39234a372ec",
+      "source": "Google News Japan Tech",
+      "title": "【案例研究】拥有2000名员工规模的JBC集团实践，通过零信任保护云和AI时代的安全性 - jbcchd.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uc0VaVW9uTG9uZ2lyQ0JaM21lRHdsZnBnWm5mZEFpbzRWdl9qZ1ZSenM5aEljZ0ZWTHVzYm5oUzMtT2ZNblo4Q1JYS0loN05PYkRkajZLUGtUQkx3NlZua0J3?oc=5",
+      "summary": "【案例研究】拥有2000名员工规模的JBC集团实践，通过零信任保护云和AI时代的安全性 jbcchd.co.jp",
+      "publishedAt": "2026-04-07T04:34:21.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "032a916b03119c5565bddff8fbe555122cd98bb4061eff66a340bc324a6bbddd",
+      "source": "Google News Japan Tech",
+      "title": "U-22编程大赛2026，奖金50万日元……报名7月1日开始 - リセマム",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50amZLYklyT0h4WVRweWJoZ3RkRGc2a3NkQU9GdTI5MkphWGpKNHVTdHA0MjVsZ3N0U0ZvcHFnMTlyVENjYUZwSjhzU3FPVXhFTWdyT25zMDRLdzlp?oc=5",
+      "summary": "U-22编程大赛2026，奖金50万日元……报名7月1日开始  リセマム",
+      "publishedAt": "2026-04-07T05:15:03.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "444573aa7c6a19aca098cf8555ca0fe823b2bf6d7a0768e70b04b30e2dc0193a",
+      "source": "Google News Japan Tech",
+      "title": "丰云云连接正式发布专注于补贴和津贴审查工作的UI插件 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jdG4xeENFd1V4ODBXMXZlMjUxTWVKYUFGdnFtS3lZYk9jT0pFa2toQi1ScndxY3B2NzZVbTFLNTB1WjBRaWFvSmR3T0RYX3IwM1lR?oc=5",
+      "summary": "丰云云连接正式发布专注于补贴和津贴审查工作的UI插件  ZDNET Japan",
+      "publishedAt": "2026-04-07T05:01:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3ccd3568c04b73342f15abbd7a4dd8c79413ee5cdf1bc7e8baeea85e8bc70865",
+      "source": "Google News Japan Tech",
+      "title": "Ingage参与YOUTRUST“春季YOUTRUST活动”，将于5月20日举办AI时代工程师生存战略特别培训 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnRkFnRXBOWFhfODdBRHBGeE5EX1VJVzlmdksxOVhtUmx4NTRRR29uOENQX0N6ckpXcFFMX3RWWEpUUHg4Z3ptckV1NHdZVEp1SFpkNklfNEVVVUFyenBwU0tkdk1vRjFPVWc?oc=5",
+      "summary": "Ingage参与YOUTRUST“春季YOUTRUST活动”，将于5月20日举办AI时代工程师生存战略特别培训  PR TIMES",
+      "publishedAt": "2026-04-07T04:30:14.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-07T07:39:07.384Z"
+  }
+}
