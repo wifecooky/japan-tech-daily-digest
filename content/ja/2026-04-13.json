@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-13",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "ad71588dafc0956ae466e7e0e525c18cb4acf8f38682f9d64fe0d7c7a5c9bd51",
+      "source": "Yahoo Japan Tech",
+      "title": "信頼性向上のためのSLI/SLO活用vol.1 - SLI/SLOフレームワークおよびサービス稼働状況確認ツール「LINE Status」開発記",
+      "url": "https://techblog.lycorp.co.jp/ja/20260413b",
+      "summary": "はじめにこんにちは。SRE（Site Reliability Engineer）として働いているDahee Eoです。私たちのチームは、Media Platform SREをはじめ、グローバルトラフィ...",
+      "publishedAt": "2026-04-13T02:00:00.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "信頼性向上のためのSLI/SLO活用vol.1 - SLI/SLOフレームワークおよびサービス稼働状況確認ツール「LINE Status」開発記",
+      "suggestedSummary": "はじめにこんにちは。SRE（Site Reliability Engineer）として働いているDahee Eoです。私たちのチームは、Media Platform SREをはじめ、グローバルトラフィ...",
+      "category": "featured"
+    },
+    {
+      "id": "0871e4be5e6fb4ce7f41f13db43daad2f8f04e206c5d61bc651e66b1775aea43",
+      "source": "CyberAgent Developers",
+      "title": "Aurora MySQL's Load Wasn't Surging, Yet Error Rates Worsened Due to Performance Schema",
+      "url": "https://developers.cyberagent.co.jp/blog/archives/63419/",
+      "summary": "This article introduces a case study of an Aurora MySQL failure that occurred one day.",
+      "publishedAt": "2026-04-13T02:58:48.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "Aurora MySQLの負荷は高騰していないのにエラーレートが悪化した原因がPerformance Schemaだった話",
+      "suggestedSummary": "本記事では、ある日起きたAurora MySQLの障害対応事例を紹介します。",
+      "category": "featured"
+    },
+    {
+      "id": "be16338304fec8570e8e3c87e46372a9d3a30155721c7594ed06c026556590ce",
+      "source": "Google News Japan Tech",
+      "title": "クラウド型医用画像情報システム「SYNAPSE LEAD Cloud」新発売 - 富士フイルム [グローバル]",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uS1hCajBIdTdlZmtpQWtsdU8xOWl6aDlmSjZlZkZMMnMxQjNlSDlZckdycy0wU0hHUVBDS1BfcDNoYUdfTV9jbHU0OUlTVUdfN0E?oc=5",
+      "summary": "クラウド型医用画像情報システム「SYNAPSE LEAD Cloud」新発売 富士フイルム [グローバル]",
+      "publishedAt": "2026-04-13T04:10:45.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "クラウド型医用画像情報システム「SYNAPSE LEAD Cloud」新発売 - 富士フイルム [グローバル]",
+      "suggestedSummary": "クラウド型医用画像情報システム「SYNAPSE LEAD Cloud」新発売 富士フイルム [グローバル]",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "43c21f65ccad80bea8d3771362e792d9531c59f650c11b892b934e4a13399c77",
+      "source": "Google News Japan Tech",
+      "title": "AI-DLC は開発をどう変えるか – ブラザー工業エンジニアが語る AI-DLC 体験記 - Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jWkxDVkdzb2ZaRExXakZjR2diR3VTcERrRXpoTDF0RUhBa3YyUmYwZDNfY2w2bWVxdUtxeUNmVjBVSVVZWno2MjlOMHF0NHRwRTJGMGRKcVB6NTRtdHJ2aGxibk1rSUptWnVfNE10RQ?oc=5",
+      "summary": "AI-DLC は開発をどう変えるか – ブラザー工業エンジニアが語る AI-DLC 体験記  Amazon Web Services",
+      "publishedAt": "2026-04-13T07:12:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "6d927214ba486e1f1b0907ac1f41479dee22cb773f49525fd0154c0791035601",
+      "source": "Google News Japan Tech",
+      "title": "スターティアホールディングス[3393]：クラウドサーカスのDAP『Fullstar(フルスタ)』と AIチャットボット『IZANAI-OpenAI』が連携！ 2026年4月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2UwVjFOT1FPemZMb3pEZUl5RUlnUldTV3p6RHNTUllUckZzdlRKdnMzYTItazdDRWVKOFo2Q1N5NkQzRVphejJyWEZrYXl4Y2VCOXlGR0RXZUp2MFdpcUZZUHBCa1dOUzhIQkdBQmhMSm9FRGx0cDUzQ2lEZUdsRkhCNjlOWGMzZTM2VWh5TVFGZW5aNFZ5Ql9ubzJoTk5aSnpORzFWd01JdzRJX3RYZkJfdFlOQnF6Qk9PelFaSEp1TFlvdUpwVlppTTU?oc=5",
+      "summary": "スターティアホールディングス[3393]：クラウドサーカスのDAP『Fullstar(フルスタ)』と AIチャットボット『IZANAI-OpenAI』が連携！ 2026年4月13日(適時開示) ：日経会社情報DIGITAL  日本経済新聞",
+      "publishedAt": "2026-04-13T06:30:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e12dd2d0e4507a03c39b3f404ff71c1de314cb563d591b56a63f81833b8ff7ed",
+      "source": "Google News Japan Tech",
+      "title": "シンプレクスが伝えるエンジニアキャリアのススメ──カギは「内発的な変化」の継続 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PWFVqaFJ4OFJpOWxOMERudVlmRnd6cTFmSHBKWFd1NkYwVGNpeEtXaXlfakRXWG8xNE9OZXpyWEV3OTdMMlMzamNXLW53Z2ZlVVE?oc=5",
+      "summary": "シンプレクスが伝えるエンジニアキャリアのススメ──カギは「内発的な変化」の継続  CodeZine",
+      "publishedAt": "2026-04-13T02:05:38.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3dabc79b4baba89f61e527ea3611a2db5acde4a2d8d54b5452090c7a89ec4eab",
+      "source": "Google News Japan Tech",
+      "title": "不動産投資型クラウドファンディング「TASUKI FUNDS」タスキ キャピタル重視型 第17号ファンド#1の投資募集のお知らせ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5COTloUC03a1Z1TEwzQnZlYThjVWNmSGVLOUFOMmxkRjhudnZpblRFcklTeVBMQldwOGxvNVRscldEWjF6VHNMcVV5YzB6MmJjekx6MDhIdkFMNm1Wa0xDcTNGekZuSFRteVE?oc=5",
+      "summary": "不動産投資型クラウドファンディング「TASUKI FUNDS」タスキ キャピタル重視型 第17号ファンド#1の投資募集のお知らせ PR TIMES",
+      "publishedAt": "2026-04-13T06:30:01.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8541738244eb07d71b29d1b1ad909fc8f37eeb64baf63f613c877be21c7b46b9",
+      "source": "Google News Japan Tech",
+      "title": "核融合の国際プロジェクト「ITER」 「電気エンジニア」の採用が決定！ - enjapan.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XLUl1dGpTSzUzVHpWSWFZZEJqaEdMMVAwTG9EWGRvbkhkcVlOcHpYSjJhWEJnUy04S0xtRm5WMVJWTlZoajR4djhtaldXcHVCeTFOX3I0QQ?oc=5",
+      "summary": "核融合の国際プロジェクト「ITER」 「電気エンジニア」の採用が決定！ enjapan.com",
+      "publishedAt": "2026-04-13T06:18:24.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0451f0ac21c9aa7cd842299ca80eab6f1d841662dffcd246414bd77046092bbb",
+      "source": "Google News Japan Tech",
+      "title": "月単価10万円アップも？ 調査で見えた“稼げる”フリーランスエンジニアの違い - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44RmF3TTRaX2JqUEhlN3pzSm1wN0x1ZVRLRnBJM0ZuWHdvUC1pTm9VUktfeklUWHBJR1o2Ujh3WEktRE1nLUZvbE5ZeHpJNk1GOUZ4TXZUZDZ0SHdvVTJxUllvSXZaNDR6czRtdUJ0QzVFdw?oc=5",
+      "summary": "月単価10万円アップも？ 調査で見えた“稼げる”フリーランスエンジニアの違い - ITmedia",
+      "publishedAt": "2026-04-13T04:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-04-13T07:42:22.883Z"
+  }
+}

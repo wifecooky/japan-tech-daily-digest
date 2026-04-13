@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-13",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "ad71588dafc0956ae466e7e0e525c18cb4acf8f38682f9d64fe0d7c7a5c9bd51",
+      "source": "Yahoo Japan Tech",
+      "title": "利用SLI/SLO提高可靠性vol.1 - SLI/SLO框架及服务运行状态检查工具“LINE Status”开发记",
+      "url": "https://techblog.lycorp.co.jp/ja/20260413b",
+      "summary": "前言：大家好。我是Dahee Eo，一名SRE（站点可靠性工程师）。我们的团队负责包括媒体平台SRE在内的全球流量...",
+      "publishedAt": "2026-04-13T02:00:00.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "利用SLI/SLO提高可靠性vol.1 - SLI/SLO框架及服务运行状态检查工具“LINE Status”开发记",
+      "suggestedSummary": "前言：大家好。我是Dahee Eo，一名SRE（站点可靠性工程师）。我们的团队负责包括媒体平台SRE在内的全球流量...",
+      "category": "featured"
+    },
+    {
+      "id": "0871e4be5e6fb4ce7f41f13db43daad2f8f04e206c5d61bc651e66b1775aea43",
+      "source": "CyberAgent Developers",
+      "title": "虽然Aurora MySQL的负载没有飙升，但错误率恶化的原因是Performance Schema",
+      "url": "https://developers.cyberagent.co.jp/blog/archives/63419/",
+      "summary": "本文介绍了一起Aurora MySQL故障的处理案例。",
+      "publishedAt": "2026-04-13T02:58:48.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "虽然Aurora MySQL的负载没有飙升，但错误率恶化的原因是Performance Schema",
+      "suggestedSummary": "本文介绍了一起Aurora MySQL故障的处理案例。",
+      "category": "featured"
+    },
+    {
+      "id": "be16338304fec8570e8e3c87e46372a9d3a30155721c7594ed06c026556590ce",
+      "source": "Google News Japan Tech",
+      "title": "云端医用图像信息系统“SYNAPSE LEAD Cloud”新发布 - 富士胶片 [全球]",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uS1hCajBIdTdlZmtpQWtsdU8xOWl6aDlmSjZlZkZMMnMxQjNlSDlZckdycy0wU0hHUVBDS1BfcDNoYUdfTV9jbHU0OUlTVUdfN0E?oc=5",
+      "summary": "云端医用图像信息系统“SYNAPSE LEAD Cloud”新发布 富士胶片 [全球]",
+      "publishedAt": "2026-04-13T04:10:45.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "云端医用图像信息系统“SYNAPSE LEAD Cloud”新发布 - 富士胶片 [全球]",
+      "suggestedSummary": "云端医用图像信息系统“SYNAPSE LEAD Cloud”新发布 富士胶片 [全球]",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "43c21f65ccad80bea8d3771362e792d9531c59f650c11b892b934e4a13399c77",
+      "source": "Google News Japan Tech",
+      "title": "AI-DLC 如何改变开发 – Brother 工程师讲述 AI-DLC 体验记 - 亚马逊网络服务",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jWkxDVkdzb2ZaRExXakZjR2diR3VTcERrRXpoTDF0RUhBa3YyUmYwZDNfY2w2bWVxdUtxeUNmVjBVSVVZWno2MjlOMHF0NHRwRTJGMGRKcVB6NTRtdHJ2aGxibk1rSUptWnVfNE10RQ?oc=5",
+      "summary": "AI-DLC 如何改变开发 – Brother 工程师讲述 AI-DLC 体验记 亚马逊网络服务",
+      "publishedAt": "2026-04-13T07:12:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "6d927214ba486e1f1b0907ac1f41479dee22cb773f49525fd0154c0791035601",
+      "source": "Google News Japan Tech",
+      "title": "斯达提亚控股[3393]：云马戏团的DAP『Fullstar(全明星)』与AI聊天机器人『IZANAI-OpenAI』实现联动！2026年4月13日（适时披露）：日经公司信息DIGITAL - 日本经济新闻",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2UwVjFOT1FPemZMb3pEZUl5RUlnUldTV3p6RHNTUllUckZzdlRKdnMzYTItazdDRWVKOFo2Q1N5NkQzRVphejJyWEZrYXl4Y2VCOXlGR0RXZUp2MFdpcUZZUHBCa1dOUzhIQkdBQmhMSm9FRGx0cDUzQ2lEZUdsRkhCNjlOWGMzZTM2VWh5TVFGZW5aNFZ5Ql9ubzJoTk5aSnpORzFWd01JdzRJX3RYZkJfdFlOQnF6Qk9PelFaSEp1TFlvdUpwVlppTTU?oc=5",
+      "summary": "斯达提亚控股[3393]：云马戏团的DAP『Fullstar(全明星)』与AI聊天机器人『IZANAI-OpenAI』实现联动！2026年4月13日（适时披露）：日经公司信息DIGITAL 日本经济新闻",
+      "publishedAt": "2026-04-13T06:30:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "e12dd2d0e4507a03c39b3f404ff71c1de314cb563d591b56a63f81833b8ff7ed",
+      "source": "Google News Japan Tech",
+      "title": "Simplex传授的工程师职业建议——关键在于持续的“内在变化”",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PWFVqaFJ4OFJpOWxOMERudVlmRnd6cTFmSHBKWFd1NkYwVGNpeEtXaXlfakRXWG8xNE9OZXpyWEV3OTdMMlMzamNXLW53Z2ZlVVE?oc=5",
+      "summary": "Simplex传授的工程师职业建议——关键在于持续的“内在变化” CodeZine",
+      "publishedAt": "2026-04-13T02:05:38.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3dabc79b4baba89f61e527ea3611a2db5acde4a2d8d54b5452090c7a89ec4eab",
+      "source": "Google News Japan Tech",
+      "title": "房地产投资型众筹“TASUKI FUNDS”塔斯基资本重视型第17号基金#1的投资募集通知 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5COTloUC03a1Z1TEwzQnZlYThjVWNmSGVLOUFOMmxkRjhudnZpblRFcklTeVBMQldwOGxvNVRscldEWjF6VHNMcVV5YzB6MmJjekx6MDhIdkFMNm1Wa0xDcTNGekZuSFRteVE?oc=5",
+      "summary": "房地产投资型众筹“TASUKI FUNDS”塔斯基资本重视型第17号基金#1的投资募集通知 PR TIMES",
+      "publishedAt": "2026-04-13T06:30:01.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "8541738244eb07d71b29d1b1ad909fc8f37eeb64baf63f613c877be21c7b46b9",
+      "source": "Google News Japan Tech",
+      "title": "国际核聚变项目“ITER”决定招聘“电气工程师” - enjapan.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XLUl1dGpTSzUzVHpWSWFZZEJqaEdMMVAwTG9EWGRvbkhkcVlOcHpYSjJhWEJnUy04S0xtRm5WMVJWTlZoajR4djhtaldXcHVCeTFOX3I0QQ?oc=5",
+      "summary": "国际核聚变项目“ITER”决定招聘“电气工程师” enjapan.com",
+      "publishedAt": "2026-04-13T06:18:24.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0451f0ac21c9aa7cd842299ca80eab6f1d841662dffcd246414bd77046092bbb",
+      "source": "Google News Japan Tech",
+      "title": "月收入可能增加10万日元？调查揭示“高收入”自由职业工程师的区别 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44RmF3TTRaX2JqUEhlN3pzSm1wN0x1ZVRLRnBJM0ZuWHdvUC1pTm9VUktfeklUWHBJR1o2Ujh3WEktRE1nLUZvbE5ZeHpJNk1GOUZ4TXZUZDZ0SHdvVTJxUllvSXZaNDR6czRtdUJ0QzVFdw?oc=5",
+      "summary": "月收入可能增加10万日元？调查揭示“高收入”自由职业工程师的区别 ITmedia",
+      "publishedAt": "2026-04-13T04:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-13T07:42:17.560Z"
+  }
+}
