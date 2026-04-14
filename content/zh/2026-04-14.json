@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-14",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "fc10a1b11efa3f9e36eb7d41149d94898c381b1ec0e496ecd6962f82a297a3b6",
+      "source": "Yahoo Japan Tech",
+      "title": "几行代码的修改，测试在深山！？让你的应用支持卫星通信！",
+      "url": "https://techblog.lycorp.co.jp/ja/20260414a",
+      "summary": "大家好，我是LINE雅虎株式会社的福野。我负责跨部门支持公司内部各种应用的开发。在本文中，我将介绍我们公司如何使Android和iOS应用支持卫星通信的努力。",
+      "publishedAt": "2026-04-14T02:00:00.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "几行代码的修改，测试在深山！？让你的应用支持卫星通信！",
+      "suggestedSummary": "大家好，我是LINE雅虎株式会社的福野。我负责跨部门支持公司内部各种应用的开发。在本文中，我将介绍我们公司如何使Android和iOS应用支持卫星通信的努力。",
+      "category": "featured"
+    },
+    {
+      "id": "5c171abaa3348669de8b01c88166b7f77f572d07ec4d216b24536de3c82199e2",
+      "source": "Google News Japan Tech",
+      "title": "佩克劳德控股[4015]：佩克劳德2025年9月至2026年2月期间，净利润减少35.7%，全年预测保持不变：日经公司信息DIGITAL - 日本经济新闻",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdWxJeUpEV2M5aEhMWEl2LTJ0TmotRzVRS0JFR1hROWhYQlcxd0c4Zl9JX0J5aG44LUp4MjBIVk1hOEtnRkpDN0h0ZWJWNzdRYVBLWWNiQWtSR2FtVjFkVnhrYVRDQkt2NUgySU1rWU1UWTlSbE9CR2dOUWZSemZCRkhuLXZ2R3pTSmJmUG5FckM2Zw?oc=5",
+      "summary": "佩克劳德控股[4015]：佩克劳德2025年9月至2026年2月期间，净利润减少35.7%，全年预测保持不变：日经公司信息DIGITAL 日本经济新闻",
+      "publishedAt": "2026-04-14T04:15:24.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "佩克劳德控股[4015]：佩克劳德2025年9月至2026年2月期间，净利润减少35.7%，全年预测保持不变：日经公司信息DIGITAL - 日本经济新闻",
+      "suggestedSummary": "佩克劳德控股[4015]：佩克劳德2025年9月至2026年2月期间，净利润减少35.7%，全年预测保持不变：日经公司信息DIGITAL 日本经济新闻",
+      "category": "featured"
+    },
+    {
+      "id": "bdeb0b87c6958e330aede043e3c8b824abf88e1119d434cd1d8c7453959d7fd0",
+      "source": "Google News Japan Tech",
+      "title": "【财报速报】PayCloud上半年经常利润减少18%，12月至2月季度也减少25%（株探新闻） - 雅虎财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWluWi1qbHptNk9BMjZMYmc0YUJtcUF0dkF2Y1h6Tkg2elJGVDJIWVdMOUJWaF9YVUpmVzlUV18zQ0ZkSE52Zmg4bmRaWk1XcXVPVmRocUltbzdRUG1jRFVpSzFYYUNzUEtNdTBhOTZpdy11cE1hY19EVW9ramxwakdNYlNhYWs?oc=5",
+      "summary": "【财报速报】PayCloud上半年经常利润减少18%，12月至2月季度也减少25%（株探新闻） 雅虎财经",
+      "publishedAt": "2026-04-14T04:01:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "【财报速报】PayCloud上半年经常利润减少18%，12月至2月季度也减少25%（株探新闻） - 雅虎财经",
+      "suggestedSummary": "【财报速报】PayCloud上半年经常利润减少18%，12月至2月季度也减少25%（株探新闻） 雅虎财经",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "31081416be5dd032dcb0319a58e5ee5f56e89bbd87543349c35aea57c019f446",
+      "source": "Google News Japan Tech",
+      "title": "稀有的“云豹”在高地被确认，时隔十年后在洪都拉斯出现复苏迹象 - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EUUR2cTBnT3JRYzF1ZjZpZnhNZzl4R2JJUUhkWHliVnZpQVVjMnBfYWpheURteHc4Ml9lTXlRaDQwSGF3SGlsenp5UHVXTmV6a2ZZ?oc=5",
+      "summary": "稀有的“云豹”在高地被确认，时隔十年后在洪都拉斯出现复苏迹象 CNN",
+      "publishedAt": "2026-04-14T05:19:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0ddbd6bcd607bd3bfa6a17e2aa3b8c686fc047a5505f7c30e515fd871b112477",
+      "source": "Google News Japan Tech",
+      "title": "札幌市引入电子合同服务“CloudSign” - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWW4xd0hUZW1MaVA5OGlJZXNfQnBMNENjcC1CZklwdHoxOHFWcXR5OVVaUVJTUW0zS3VVNllCbmxCZzdkbVBiVmU3bE1CTHB1c2hscVZjZHozWUIzQ0JYYjJGSXJ0aWtzaHc?oc=5",
+      "summary": "札幌市引入电子合同服务“CloudSign” - PR TIMES",
+      "publishedAt": "2026-04-14T06:30:02.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a4371598203817af71ca99530255944ed017174e7e712ed7b7f6e1cdd63edf23",
+      "source": "Google News Japan Tech",
+      "title": "云服务市场到2035年将扩大至3.1626万亿美元，超大规模增长推动年均复合增长率达16.00% - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wYzlTdVM3dDhfNnpSSjJMV2ZzanRkdjU3bXZCQzJWWVA3a0RwM2ZwUXhpQU9ja3dCTHVBUFY0dTZ5NnY0LXhZVEJzVVVobDA?oc=5",
+      "summary": "云服务市场到2035年将扩大至3.1626万亿美元，超大规模增长推动年均复合增长率达16.00% アットプレス",
+      "publishedAt": "2026-04-14T02:40:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "c1443623b9fe0235f4d2b8d84bb733bec50806ff9dfca7b7a89b4b7ea9095480",
+      "source": "Google News Japan Tech",
+      "title": "阿迪达斯 Samba OG \"核心黑/云白/胶底\" 27.5cm 二手 - SNKRDUNK",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04R010SGdkYkh4WlhHdFlqTGlZem9IMnBGS2lobjFoaE9CdGlITXZRc0pMRHlkXzZRdVhxNVlPVEJBQm40ajZjbXZaYlJYdTdnYzVsX0lEcGhfRXRDbTNr?oc=5",
+      "summary": "阿迪达斯 Samba OG \"核心黑/云白/胶底\" 27.5cm 二手 SNKRDUNK",
+      "publishedAt": "2026-04-14T06:26:53.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "4f394efea0107e07f6e8527fba2b95ac8c90a2152890deb6023d32eb93038ad5",
+      "source": "Google News Japan Tech",
+      "title": "GitHub Copilot云代理验证工具速度提高20% - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mSkdOTWFHUmNUcUZEcEpFNWZzRmFNT0xYMjVhczA2a0VzcjRrRnhqTUZHU3duY2p6NW5la0phUzk1dmx6Y0RkRWEzTGc4dw?oc=5",
+      "summary": "GitHub Copilot云代理验证工具速度提高20%  CodeZine",
+      "publishedAt": "2026-04-14T06:59:41.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "def002eb09015332af07b90394a0e321a039bba98060afc57495dc3486f03009",
+      "source": "Google News Japan Tech",
+      "title": "弁護士ドットコム[6027]：札幌市引入电子合同服务“CloudSign” 2026年4月14日（及时披露）：日经公司信息DIGITAL - 日本经济新闻",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZVlWOGZYWjhVYy1OOERCYk9pd0VDYWsyNXdLdVNrcWJ1SkVCbndIem5PUXV4eEI0b3RaOGdqWGV3aFU3cV9CcTFvZWRIdXJaVVNYZnlCaEVnb2pSV0o2d19rZ3ZhQVhDSDQxZ1YzTHJFSDBUVUNSTkNxSU9jNEtLMDBJNHNoc3dadERQSlBxSDlUUDByZTU5RHA4dnRSR2ZheUVKNmlSNFJ4R1VreU5oYVFNZnNFaTB0Z2plQjctWmhHU09yRXMtRFk3RVM?oc=5",
+      "summary": "弁護士ドットコム[6027]：札幌市引入电子合同服务“CloudSign” 2026年4月14日（及时披露）：日经公司信息DIGITAL 日本经济新闻",
+      "publishedAt": "2026-04-14T06:30:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-04-14T07:41:42.530Z"
+  }
+}
