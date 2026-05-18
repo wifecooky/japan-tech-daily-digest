@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-18",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "de78618c7e96669f96475fba3e49285d65b1c4e1a796b16bb69000e476226f8e",
+      "source": "Qiita Popular",
+      "title": "1成的“值得信赖”的工程师正在实施的『防止偏差的中途共享』",
+      "url": "https://qiita.com/hitomin_poke/items/5d00c7dd1d690ee4f9bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "大家好。我是株式会社PRUM的工程师人见。日常在编程学习和实际工作中，我整理并发布容易遇到的难点和在现场感受到的事情。如果您对PRUM感兴趣，请务必访问我们的企业网站。▶ 企业网站",
+      "publishedAt": "2026-05-18T05:05:48.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "1成的“值得信赖”的工程师正在实施的『防止偏差的中途共享』",
+      "suggestedSummary": "大家好。我是株式会社PRUM的工程师人见。日常在编程学习和实际工作中，我整理并发布容易遇到的难点和在现场感受到的事情。如果您对PRUM感兴趣，请务必访问我们的企业网站。▶ 企业网站",
+      "category": "featured"
+    },
+    {
+      "id": "cbe38830be63a54c7e10f08699a037fb63623241ffd2d65ac6d6578876d94639",
+      "source": "Qiita Popular",
+      "title": "[前端性能 - 第18部分]。Core Web Vitals完全攻略：LCP、INP、CLS的实践性改善",
+      "url": "https://qiita.com/tuanphan/items/8f1b05c18aaa67531000?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "📝 注意\n本文在AI的辅助下编辑。\n\n📚 目录\n\n0. 引言：即使Lighthouse得分100，用户仍然觉得“慢”的原因\n1. 什么是Core Web Vitals？用户体验的三大支柱\n2. LCP（Largest Contentful ...",
+      "publishedAt": "2026-05-18T07:23:07.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "[前端性能 - 第18部分]。Core Web Vitals完全攻略：LCP、INP、CLS的实践性改善",
+      "suggestedSummary": "📝 注意\n本文在AI的辅助下编辑。\n\n📚 目录\n\n0. 引言：即使Lighthouse得分100，用户仍然觉得“慢”的原因\n1. 什么是Core Web Vitals？用户体验的三大支柱\n2. LCP（Largest Contentful ...",
+      "category": "featured"
+    },
+    {
+      "id": "0c01f95250598edb5c03ccd611b9e2e1b3ae871943af8d6ca22e4b378b10069d",
+      "source": "Qiita Popular",
+      "title": "通过AWS SAP认证的经历",
+      "url": "https://qiita.com/okamoto_keisuke/items/55e53c8fb3ab6815162b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "前几天，我参加了AWS认证的AWS Certified Solutions Architect - Professional（SAP）考试，并顺利通过。（合格分数为750，我得了814分）借此机会，我将简要总结一下我的学习方法和考试感想。",
+      "publishedAt": "2026-05-18T03:46:00.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "通过AWS SAP认证的经历",
+      "suggestedSummary": "前几天，我参加了AWS认证的AWS Certified Solutions Architect - Professional（SAP）考试，并顺利通过。（合格分数为750，我得了814分）借此机会，我将简要总结一下我的学习方法和考试感想。",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "2df4e0af962ac9e44cd3d2ddcbc94eed73fc4d1cebdd0e03468d17051ac58b99",
+      "source": "Qiita Popular",
+      "title": "LLM中有什么？从架构到推理的解读",
+      "url": "https://qiita.com/TOMOSIA-LinhND/items/d0652603267ab7a430d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "引言\n当你开始使用生成式AI时，经常会遇到以下术语。例如，“7B参数”、“128K上下文”、“RoPE”、“LoRA微调”、“MoE模型”等。这些术语看似不相关，但实际上它们都与L...",
+      "publishedAt": "2026-05-18T07:10:57.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "76917f437232462e2165e492dc9430ad09da28e26494ef4d196facd10329f2c6",
+      "source": "Google News Japan Tech",
+      "title": "IT工程师关注趋势总汇！每周新闻排行榜前十【5/8～5/14】 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nTFpyUGxPMDBreEZjUTNSaTZpNUFxWVFMQzNEOWhIb1JERGQ3RlBZbWpRMjVQUzFtTk1jNG9zMVJHLW5CSVp2RzJNc3ZoRjNFVEE?oc=5",
+      "summary": "IT工程师关注趋势总汇！每周新闻排行榜前十【5/8～5/14】 CodeZine",
+      "publishedAt": "2026-05-18T04:07:30.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5f9bbec33a6c27e7741c27bb97ca2fc14a196de9ed8a1e0176e8884b4158f966",
+      "source": "Google News Japan Tech",
+      "title": "富士通与日本IBM在医疗领域的主权云合作，亦将利用AI - 日经Cross Tech",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uTmU2cFJUM19ZYWxfdzFyRkdEczBVc0ZpNWFnVGhad1BLZVhLXzFMbkFFTGhhVlhTR2lUajhUbzc3bW5TUl8tRUVmX25QV1B4YXozN0ZlSXNRTERB?oc=5",
+      "summary": "富士通与日本IBM在医疗领域的主权云合作，亦将利用AI - 日经Cross Tech",
+      "publishedAt": "2026-05-18T03:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "83ff60ffe8b44c0e0af09320205885ad6afe2dc92fc070647e93424e7205a897",
+      "source": "Google News Japan Tech",
+      "title": "富士通与日本IBM通过构建医疗专用主权云平台和利用AI加速医疗数字化转型（Cloud Watch） - Yahoo!新闻",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBia29IU0JGeXU3TXVmZWlPN0R2VzdsUHRxYUJmQk5Wblgxd3ZWVEt0N2dkbUdReGF4aWg1TTRPd296TFZ1c3oxVGRQS013aXV4UUJhbjRyZjNNem1tNFhCUEttZ2NDR0FuNXBXM09kQUJFd09aWlBpekdMQllTMlU?oc=5",
+      "summary": "富士通与日本IBM通过构建医疗专用主权云平台和利用AI加速医疗数字化转型（Cloud Watch） Yahoo!新闻",
+      "publishedAt": "2026-05-18T03:48:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a220d465022f008455f39fa9046ce5d87326a5e875746ae3dc4a7a221f2f303e",
+      "source": "Google News Japan Tech",
+      "title": "AI、技术债务，以及掌握 AI 的路径 - 亚马逊网络服务 (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWU5zUW10Z1pJSEJTTTVzQXRNYURjcWNBODRYc21QWGJjNGIyYjRyS2RLc0RJNTVXTWtfZUlIeWctV3lYUGl1RWVuUEYwRWpnQm10X3MxRGpxUTlYOGRFbHR5VmZXbk0zMG93aC1OOTBMOXVaYUMwX3poYmtCS1htWnZ1eDVIcUxVb1J6Sw?oc=5",
+      "summary": "AI、技术债务，以及掌握 AI 的路径 亚马逊网络服务 (AWS)",
+      "publishedAt": "2026-05-18T03:42:27.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d5b8d421131c3795afd1008d12cb9fadf0287217626e18a52bd07b9ff3541d2e",
+      "source": "Google News Japan Tech",
+      "title": "Vercel发布用于AI代理的编程语言“Zero” - gihyo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Za2F1bi1pQ051eG0tX1hXUm1ZMkhyTXhmRmptR0k0VEh3NG1rUzZ3MDlPaThlOGthdFh5NlpxU2RZSnlZblp2SUtLYmIzR0tXTXBj?oc=5",
+      "summary": "Vercel发布用于AI代理的编程语言“Zero”  gihyo.jp",
+      "publishedAt": "2026-05-18T02:58:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-18T08:28:39.145Z"
+  }
+}

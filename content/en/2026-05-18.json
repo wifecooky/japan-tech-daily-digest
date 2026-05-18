@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-18",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "de78618c7e96669f96475fba3e49285d65b1c4e1a796b16bb69000e476226f8e",
+      "source": "Qiita Popular",
+      "title": "1割の“信頼される”エンジニアが実行している『ズレを防ぐ途中共有』",
+      "url": "https://qiita.com/hitomin_poke/items/5d00c7dd1d690ee4f9bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている人見です。\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや、\n現場で感じたことを整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶ コーポレートサイト\n\n1...",
+      "publishedAt": "2026-05-18T05:05:48.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "1割の“信頼される”エンジニアが実行している『ズレを防ぐ途中共有』",
+      "suggestedSummary": "はじめまして。株式会社PRUMでエンジニアをしている人見です。\n日々、プログラミング学習や実務の中で、つまずきやすいポイントや、\n現場で感じたことを整理して発信しています。\nPRUMについて気になった方は、コーポレートサイトもぜひご覧ください。\n▶ コーポレートサイト\n\n1...",
+      "category": "featured"
+    },
+    {
+      "id": "cbe38830be63a54c7e10f08699a037fb63623241ffd2d65ac6d6578876d94639",
+      "source": "Qiita Popular",
+      "title": "[Frontend Performance - Part 18]. Core Web Vitals完全攻略：LCP・INP・CLSの実践的改善",
+      "url": "https://qiita.com/tuanphan/items/8f1b05c18aaa67531000?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n\n📚 目次\n\n0. はじめに：Lighthouse 100点でもユーザーが「遅い」と感じる理由\n1. Core Web Vitalsとは？ユーザー体験の三本柱\n2. LCP（Largest Contentful ...",
+      "publishedAt": "2026-05-18T07:23:07.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "[Frontend Performance - Part 18]. Core Web Vitals完全攻略：LCP・INP・CLSの実践的改善",
+      "suggestedSummary": "📝 注意\n本記事はAIの補助を受けて編集しています。\n\n📚 目次\n\n0. はじめに：Lighthouse 100点でもユーザーが「遅い」と感じる理由\n1. Core Web Vitalsとは？ユーザー体験の三本柱\n2. LCP（Largest Contentful ...",
+      "category": "featured"
+    },
+    {
+      "id": "0c01f95250598edb5c03ccd611b9e2e1b3ae871943af8d6ca22e4b378b10069d",
+      "source": "Qiita Popular",
+      "title": "AWS SAPに受かってみた",
+      "url": "https://qiita.com/okamoto_keisuke/items/55e53c8fb3ab6815162b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "先日、AWS認定の AWS Certified Solutions Architect - Professional（SAP） を受験し、無事合格しました。（合格点750に対して814でした）\nせっかくなので、やった勉強法や受験した感想を簡単にまとめます。\n\n勉強法はUde...",
+      "publishedAt": "2026-05-18T03:46:00.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "AWS SAPに受かってみた",
+      "suggestedSummary": "先日、AWS認定の AWS Certified Solutions Architect - Professional（SAP） を受験し、無事合格しました。（合格点750に対して814でした）\nせっかくなので、やった勉強法や受験した感想を簡単にまとめます。\n\n勉強法はUde...",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "2df4e0af962ac9e44cd3d2ddcbc94eed73fc4d1cebdd0e03468d17051ac58b99",
+      "source": "Qiita Popular",
+      "title": "# LLMの中には何があるのか？アーキテクチャから推論までを解説",
+      "url": "https://qiita.com/TOMOSIA-LinhND/items/d0652603267ab7a430d8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nGenerative AIを使い始めると、よく次のような表現に出会います。たとえば「7B parameters」「128K context」「RoPE」「LoRA fine-tuning」「MoE model」などです。一見ばらばらの用語に見えますが、実際にはL...",
+      "publishedAt": "2026-05-18T07:10:57.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "76917f437232462e2165e492dc9430ad09da28e26494ef4d196facd10329f2c6",
+      "source": "Google News Japan Tech",
+      "title": "ITエンジニア注目トレンドを総まとめ！週間ニュースランキングTOP10【5/8～5/14】 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nTFpyUGxPMDBreEZjUTNSaTZpNUFxWVFMQzNEOWhIb1JERGQ3RlBZbWpRMjVQUzFtTk1jNG9zMVJHLW5CSVp2RzJNc3ZoRjNFVEE?oc=5",
+      "summary": "ITエンジニア注目トレンドを総まとめ！週間ニュースランキングTOP10【5/8～5/14】  CodeZine",
+      "publishedAt": "2026-05-18T04:07:30.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "5f9bbec33a6c27e7741c27bb97ca2fc14a196de9ed8a1e0176e8884b4158f966",
+      "source": "Google News Japan Tech",
+      "title": "富士通と日本IBM、医療向けソブリンクラウドで連携 AI活用も - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uTmU2cFJUM19ZYWxfdzFyRkdEczBVc0ZpNWFnVGhad1BLZVhLXzFMbkFFTGhhVlhTR2lUajhUbzc3bW5TUl8tRUVmX25QV1B4YXozN0ZlSXNRTERB?oc=5",
+      "summary": "富士通と日本IBM、医療向けソブリンクラウドで連携 AI活用も  日経クロステック",
+      "publishedAt": "2026-05-18T03:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "83ff60ffe8b44c0e0af09320205885ad6afe2dc92fc070647e93424e7205a897",
+      "source": "Google News Japan Tech",
+      "title": "富士通と日本IBM、医療向けソブリンクラウド基盤の構築とAI活用で医療DXを加速（クラウド Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBia29IU0JGeXU3TXVmZWlPN0R2VzdsUHRxYUJmQk5Wblgxd3ZWVEt0N2dkbUdReGF4aWg1TTRPd296TFZ1c3oxVGRQS013aXV4UUJhbjRyZjNNem1tNFhCUEttZ2NDR0FuNXBXM09kQUJFd09aWlBpekdMQllTMlU?oc=5",
+      "summary": "富士通と日本IBM、医療向けソブリンクラウド基盤の構築とAI活用で医療DXを加速（クラウド Watch）  Yahoo!ニュース",
+      "publishedAt": "2026-05-18T03:48:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a220d465022f008455f39fa9046ce5d87326a5e875746ae3dc4a7a221f2f303e",
+      "source": "Google News Japan Tech",
+      "title": "AI、技術的負債、そして AI を使いこなす力への道筋 - Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWU5zUW10Z1pJSEJTTTVzQXRNYURjcWNBODRYc21QWGJjNGIyYjRyS2RLc0RJNTVXTWtfZUlIeWctV3lYUGl1RWVuUEYwRWpnQm10X3MxRGpxUTlYOGRFbHR5VmZXbk0zMG93aC1OOTBMOXVaYUMwX3poYmtCS1htWnZ1eDVIcUxVb1J6Sw?oc=5",
+      "summary": "AI、技術的負債、そして AI を使いこなす力への道筋  Amazon Web Services (AWS)",
+      "publishedAt": "2026-05-18T03:42:27.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "d5b8d421131c3795afd1008d12cb9fadf0287217626e18a52bd07b9ff3541d2e",
+      "source": "Google News Japan Tech",
+      "title": "Vercel、AIエージェントのためのプログラミング言語「Zero」を公開 - gihyo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Za2F1bi1pQ051eG0tX1hXUm1ZMkhyTXhmRmptR0k0VEh3NG1rUzZ3MDlPaThlOGthdFh5NlpxU2RZSnlZblp2SUtLYmIzR0tXTXBj?oc=5",
+      "summary": "Vercel、AIエージェントのためのプログラミング言語「Zero」を公開  gihyo.jp",
+      "publishedAt": "2026-05-18T02:58:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-18T08:28:30.797Z"
+  }
+}
