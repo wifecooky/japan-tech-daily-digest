@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-20",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "1dc5d69e6a6ad1bf4326e1b1a4c5e37bae267dd83225f608f36fc77622e820e7",
+      "source": "Qiita Popular",
+      "title": "1成的“受信赖”工程师所执行的『截止日期感知论』",
+      "url": "https://qiita.com/hitomin_poke/items/1ffbc05f07355231f420?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "大家好。我是株式会社PRUM的工程师人见。每天，我都会整理并分享在编程学习和实际工作中容易遇到的难点，以及工作中容易出现的“偏差”。希望能对某些人有所帮助。",
+      "publishedAt": "2026-05-20T04:17:46.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "1成的“受信赖”工程师所执行的『截止日期感知论』",
+      "suggestedSummary": "大家好。我是株式会社PRUM的工程师人见。每天，我都会整理并分享在编程学习和实际工作中容易遇到的难点，以及工作中容易出现的“偏差”。希望能对某些人有所帮助。",
+      "category": "featured"
+    },
+    {
+      "id": "f980bb48024285072677ffcea4cd1b5d65f4a4527b0830de5dfcffad0e1b05b3",
+      "source": "Qiita Popular",
+      "title": "育休中的工程师在Claude Cowork制作了“宝宝日历🍼”的故事",
+      "url": "https://qiita.com/yuzinet/items/323bc76cf2d31d9f4d42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "育休中的工程师在Claude Cowork制作了“宝宝日历🍼”的故事",
+      "publishedAt": "2026-05-20T04:57:30.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "育休中的工程师在Claude Cowork制作了“宝宝日历🍼”的故事",
+      "suggestedSummary": "育休中的工程师在Claude Cowork制作了“宝宝日历🍼”的故事",
+      "category": "featured"
+    },
+    {
+      "id": "0765f5704c48a4c5785f3ac0a2f8db4872bdbc662658022894f372f00ab7a711",
+      "source": "Qiita Popular",
+      "title": "使用Claude Code创建和验证针对Gemeni提议的脆弱Pepper实现的PoC",
+      "url": "https://qiita.com/ockeghem/items/804a69dcd3c6930b7676?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "在与Gemini的对话中，用于密码保护的pepper实现中混入了因空字节引起的重大漏洞。使用Claude Code创建并验证了针对该漏洞的PoC，确认了攻击的有效性，1/256的注册用户容易被非法登录。",
+      "publishedAt": "2026-05-20T02:27:04.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "使用Claude Code创建和验证针对Gemeni提议的脆弱Pepper实现的PoC",
+      "suggestedSummary": "在与Gemini的对话中，用于密码保护的pepper实现中混入了因空字节引起的重大漏洞。使用Claude Code创建并验证了针对该漏洞的PoC，确认了攻击的有效性，1/256的注册用户容易被非法登录。",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "c3706185586cf418f6362623094827ff4017f37b24111dc3004ac1fe90fd2433",
+      "source": "Qiita Popular",
+      "title": "尝试使用Gemini Omni【Gemini 3.5 Flash】",
+      "url": "https://qiita.com/mikaka/items/4e900383576636d63968?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "提示：将视频中的女性变成长发。将视频设置为无声。",
+      "publishedAt": "2026-05-20T05:44:24.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "97f64b3f246d44b3195d717dff110d6bf2d60b4ceb4359f5f8a9e525724a7e45",
+      "source": "PublicKey",
+      "title": "Google Antigravity 正式支持 Android 应用开发，发布 AI 代理的“Android 知识库”和“Android 技能”",
+      "url": "https://www.publickey1.jp/blog/26/google_antigravityandroidaiandroid_knowledge_baseandroid_skills.html",
+      "summary": "Google 在日本时间 5 月 20 日凌晨开幕的“Google I/O 2026”大会上宣布，AI 开发工具“Antigravity”正式支持使用 Kotlin 开发高质量的 Android 应用程序。此举将使利用 Android 最新创新的应用程序开发变得更加迅速。此次发布的 Antigravity 新版本为 Antigravity 2.0，并且与之相配套的 Android 应用……",
+      "publishedAt": "2026-05-20T03:16:39.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "291bc072b5c310fcd22b62b3ace8cea85eb2687ff298c5cc56870573c2998aff",
+      "source": "PublicKey",
+      "title": "谷歌发布“Antigravity 2.0”。演示中从零开发操作系统，并可运行Doom。展示高效性和强大的开发能力",
+      "url": "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
+      "summary": "谷歌在日本时间5月20日凌晨开幕的“Google I/O 2026”大会上，发布了由AI开发工具“Antigravity”升级而来的“Antigravity 2.0”。Antigravity 2.0被认为是一个以AI代理为核心的开发环境，具备使用多个AI代理的高级开发功能。谷歌在主题演讲中通过演示展示了AI代理从零开发操作系统并运行Doom的过程，展示了其强大的能力……",
+      "publishedAt": "2026-05-20T02:30:01.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2afce4ff0960e95ce9a76e29ea80cb792158c703fa478e0d65cb113022187a8e",
+      "source": "Google News Japan Tech",
+      "title": "如何承担AI生成代码的质量责任？工程师所需的“验证”转变与测试自动化的关键 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94azA1NlNhSWtHcXhRYl8wMXp3TlV6eUh5TldiNHFjYWN3QXI0NTQxSFhtLXQ2LUtLM01QN0JYYXpMM1lKQmdoRFFFdW1Hak5FY2c?oc=5",
+      "summary": "如何承担AI生成代码的质量责任？工程师所需的“验证”转变与测试自动化的关键 - CodeZine",
+      "publishedAt": "2026-05-20T06:39:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3a75b81c07e599a623f4c89ff06f9e7a87136d6f4aba6cdc1df4f3c35bb4af06",
+      "source": "Google News Japan Tech",
+      "title": "什么是Wiz Cloud？优化云安全的功能和引入优势 - 云王牌株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yOG1KZjRyWmR4OGI4bnBrUndteHZ4VmxKWTBGX2hQSDh5dmtLaFBpQnpGNlFzLXVYQ085LWFLQmp0TGZTbVkydTZTaTJqMWc?oc=5",
+      "summary": "什么是Wiz Cloud？优化云安全的功能和引入优势 云王牌株式会社",
+      "publishedAt": "2026-05-20T03:19:31.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cfcb7c703acfe0365ce221749e475429cda4cbcf4decd7f6ba1b590651939dae",
+      "source": "Google News Japan Tech",
+      "title": "新毕业生初任工资上涨，现场工程师是否满意？Cybozu、LINE Yahoo、LayerX揭示薪酬上涨背后的故事 - type求职网站",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUjVZYXZ6blJ2d2d0bXVNU1hzb0hHUmhaU0dwbXV4S2ptS2pJQUNkSkVYZnFXeGdpaWRhaHBJa184Mzl2VkY5aA?oc=5",
+      "summary": "新毕业生初任工资上涨，现场工程师是否满意？Cybozu、LINE Yahoo、LayerX揭示薪酬上涨背后的故事 type求职网站",
+      "publishedAt": "2026-05-20T02:57:15.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-20T08:15:57.050Z"
+  }
+}

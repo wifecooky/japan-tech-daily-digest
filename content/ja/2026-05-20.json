@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-20",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "1dc5d69e6a6ad1bf4326e1b1a4c5e37bae267dd83225f608f36fc77622e820e7",
+      "source": "Qiita Popular",
+      "title": "1割の“信頼される”エンジニアが実行している『締め切り感覚論』",
+      "url": "https://qiita.com/hitomin_poke/items/1ffbc05f07355231f420?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしている人見です。日々、プログラミング学習や実務の中で、つまずきやすいポイントや、仕事で起きやすい“ズレ”について整理して発信しています。誰かの助けになれば幸いです。",
+      "publishedAt": "2026-05-20T04:17:46.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "1割の“信頼される”エンジニアが実行している『締め切り感覚論』",
+      "suggestedSummary": "はじめまして。株式会社PRUMでエンジニアをしている人見です。日々、プログラミング学習や実務の中で、つまずきやすいポイントや、仕事で起きやすい“ズレ”について整理して発信しています。誰かの助けになれば幸いです。",
+      "category": "featured"
+    },
+    {
+      "id": "f980bb48024285072677ffcea4cd1b5d65f4a4527b0830de5dfcffad0e1b05b3",
+      "source": "Qiita Popular",
+      "title": "育休中のエンジニアがClaude Coworkで「あかちゃんカレンダー🍼」を作成した話",
+      "url": "https://qiita.com/yuzinet/items/323bc76cf2d31d9f4d42?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "育休中のエンジニアがClaude Coworkで「あかちゃんカレンダー🍼」を作成した話",
+      "publishedAt": "2026-05-20T04:57:30.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "育休中のエンジニアがClaude Coworkで「あかちゃんカレンダー🍼」を作成した話",
+      "suggestedSummary": "育休中のエンジニアがClaude Coworkで「あかちゃんカレンダー🍼」を作成した話",
+      "category": "featured"
+    },
+    {
+      "id": "0765f5704c48a4c5785f3ac0a2f8db4872bdbc662658022894f372f00ab7a711",
+      "source": "Qiita Popular",
+      "title": "Gemeniが提案した脆弱なペッパー実装に対するPoCをClaude Codeで作成・検証した",
+      "url": "https://qiita.com/ockeghem/items/804a69dcd3c6930b7676?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "サマリ\nGeminiとの会話の際に、パスワード保護に用いるpepperの実装にヌルバイトに起因する重大な脆弱性が混入した。この脆弱性に対するPoCをClaude Codeを用いて作成して検証したところ、攻撃の実効性が確認され、登録ユーザーの1/256が容易に不正ログインさ...",
+      "publishedAt": "2026-05-20T02:27:04.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "Gemeniが提案した脆弱なペッパー実装に対するPoCをClaude Codeで作成・検証した",
+      "suggestedSummary": "サマリ\nGeminiとの会話の際に、パスワード保護に用いるpepperの実装にヌルバイトに起因する重大な脆弱性が混入した。この脆弱性に対するPoCをClaude Codeを用いて作成して検証したところ、攻撃の実効性が確認され、登録ユーザーの1/256が容易に不正ログインさ...",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "c3706185586cf418f6362623094827ff4017f37b24111dc3004ac1fe90fd2433",
+      "source": "Qiita Popular",
+      "title": "Gemini Omniを使ってみた【Gemini 3.5 Flash】",
+      "url": "https://qiita.com/mikaka/items/4e900383576636d63968?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "プロンプト\n動画の女性をロングヘアにして。無音の動画にすること",
+      "publishedAt": "2026-05-20T05:44:24.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "97f64b3f246d44b3195d717dff110d6bf2d60b4ceb4359f5f8a9e525724a7e45",
+      "source": "PublicKey",
+      "title": "Google Antigravity、Androidアプリ開発に正式対応。AIエージェントのための「Android Knowledge Base」「Android Skills」も公開",
+      "url": "https://www.publickey1.jp/blog/26/google_antigravityandroidaiandroid_knowledge_baseandroid_skills.html",
+      "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」で、Kotlinによる高品質なAndroidアプリケーションの開発を正式にサポートしたと発表しました。これによりAndroidの最新のイノベーションを活用したアプリケーションの開発が迅速に可能になるとしています。Antigravityは今回、新バージョンのAntigravity 2.0が発表されており、それに合わせてAndroidアプリ……",
+      "publishedAt": "2026-05-20T03:16:39.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "291bc072b5c310fcd22b62b3ace8cea85eb2687ff298c5cc56870573c2998aff",
+      "source": "PublicKey",
+      "title": "Google、「Antigravity 2.0」を発表。デモでゼロからOSを開発し、Doomの実行も可能に。効率性と高い開発能力をアピール",
+      "url": "https://www.publickey1.jp/blog/26/googleantigravity_20osdoom.html",
+      "summary": "Googleは日本時間5月20日未明に開幕したイベント「Google I/O 2026」で、AIによる開発ツール「Antigravity」のバージョンアップとなる「Antigravity 2.0」を発表しました。Antigravity 2.0はAIエージェントファーストな開発環境とされ、複数のAIエージェントを用いた高度な開発機能を備えています。Googleは基調講演でデモとしてAIエージェントによってゼロからOSを開発し、Doomを実行させるまでの動作を披露。その高い能力を示しました。",
+      "publishedAt": "2026-05-20T02:30:01.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "2afce4ff0960e95ce9a76e29ea80cb792158c703fa478e0d65cb113022187a8e",
+      "source": "Google News Japan Tech",
+      "title": "AI生成コードの品質責任をどう果たすか？ エンジニアに求められる「検証」へのシフトとテスト自動化の要諦 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94azA1NlNhSWtHcXhRYl8wMXp3TlV6eUh5TldiNHFjYWN3QXI0NTQxSFhtLXQ2LUtLM01QN0JYYXpMM1lKQmdoRFFFdW1Hak5FY2c?oc=5",
+      "summary": "AI生成コードの品質責任をどう果たすか？ エンジニアに求められる「検証」へのシフトとテスト自動化の要諦 - CodeZine",
+      "publishedAt": "2026-05-20T06:39:36.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "3a75b81c07e599a623f4c89ff06f9e7a87136d6f4aba6cdc1df4f3c35bb4af06",
+      "source": "Google News Japan Tech",
+      "title": "Wiz Cloudとは？クラウドセキュリティを最適化する機能と導入メリット - クラウドエース株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yOG1KZjRyWmR4OGI4bnBrUndteHZ4VmxKWTBGX2hQSDh5dmtLaFBpQnpGNlFzLXVYQ085LWFLQmp0TGZTbVkydTZTaTJqMWc?oc=5",
+      "summary": "Wiz Cloudとは？クラウドセキュリティを最適化する機能と導入メリット クラウドエース株式会社",
+      "publishedAt": "2026-05-20T03:19:31.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "cfcb7c703acfe0365ce221749e475429cda4cbcf4decd7f6ba1b590651939dae",
+      "source": "Google News Japan Tech",
+      "title": "新卒初任給引き上げ、現場エンジニアは納得済み？ サイボウズ、LINEヤフー、LayerXが明かす報酬高騰の裏側 - type転職サイト",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlUjVZYXZ6blJ2d2d0bXVNU1hzb0hHUmhaU0dwbXV4S2ptS2pJQUNkSkVYZnFXeGdpaWRhaHBJa184Mzl2VkY5aA?oc=5",
+      "summary": "新卒初任給引き上げ、現場エンジニアは納得済み？ サイボウズ、LINEヤフー、LayerXが明かす報酬高騰の裏側  type転職サイト",
+      "publishedAt": "2026-05-20T02:57:15.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-20T08:16:04.499Z"
+  }
+}
