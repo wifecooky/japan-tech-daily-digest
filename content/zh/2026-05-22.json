@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-22",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "494be3662fd26539c8f6ca09e32a019a227685f0f22e0ada75276172954c112d",
+      "source": "Qiita Popular",
+      "title": "PLG 堆栈 — 第1部：深入理解 Prometheus・Loki・Grafana",
+      "url": "https://qiita.com/luan_nguyen/items/acaa441d34a20de58f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "你的系统正在运行——但你真的了解它在做什么吗？\n\n这是 PLG 堆栈系列共两部分的第1部。我们将详细解释每个组件如何运行及其用途。在第2部中，将介绍 Docker Compose・Kubern...",
+      "publishedAt": "2026-05-22T06:50:30.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "PLG 堆栈 — 第1部：深入理解 Prometheus・Loki・Grafana",
+      "suggestedSummary": "你的系统正在运行——但你真的了解它在做什么吗？\n\n这是 PLG 堆栈系列共两部分的第1部。我们将详细解释每个组件如何运行及其用途。在第2部中，将介绍 Docker Compose・Kubern...",
+      "category": "featured"
+    },
+    {
+      "id": "3fe3dbb03d79c2001565409e8cc73e9a811638585fb2f47db9e4110c74a73e2c",
+      "source": "Qiita Popular",
+      "title": "[前端性能 - 第20部分] 前端性能改善 完整路线图总汇",
+      "url": "https://qiita.com/tuanphan/items/1feeae0fc6ae30aa709d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "📝 注意\n这篇文章受到了AI编辑支持。\n\n📚 目录\n\n0. 引言：从“凭直觉的优化”到“基于测量的改进过程”\n1. 回顾：5个基础部分和8个知识水平\n2. 3个支柱性知识的总汇\n3. 实践性的优化路线图 –...",
+      "publishedAt": "2026-05-22T06:47:13.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "[前端性能 - 第20部分] 前端性能改善 完整路线图总汇",
+      "suggestedSummary": "📝 注意\n这篇文章受到了AI编辑支持。\n\n📚 目录\n\n0. 引言：从“凭直觉的优化”到“基于测量的改进过程”\n1. 回顾：5个基础部分和8个知识水平\n2. 3个支柱性知识的总汇\n3. 实践性的优化路线图 –...",
+      "category": "featured"
+    },
+    {
+      "id": "85abc6d32dd7de281a16fd4a2c2bc1ca9f2d907c2695d667b0c296460e20784d",
+      "source": "Qiita Popular",
+      "title": "整理 Copilot Studio 新的“工作流程”和传统的“代理流程”在当前的使用区别",
+      "url": "https://qiita.com/Takashi_Masumori/items/e01e47604bd36f8932fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "简介\n打开 Copilot Studio 的流程菜单，最近出现了“新工作流程”和“新代理流程”这两个选项。\n\n选择“工作流程”后，会看到由 Build / Activity / Analytics 三个标签组成的界面...",
+      "publishedAt": "2026-05-22T05:39:49.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "整理 Copilot Studio 新的“工作流程”和传统的“代理流程”在当前的使用区别",
+      "suggestedSummary": "简介\n打开 Copilot Studio 的流程菜单，最近出现了“新工作流程”和“新代理流程”这两个选项。\n\n选择“工作流程”后，会看到由 Build / Activity / Analytics 三个标签组成的界面...",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "5524e5a4f1b52f0c3dfc9597540a9a86ff01baecddf2585277c594e4df01aa5f",
+      "source": "Qiita Popular",
+      "title": "使用New Relic Synthetics Recorder，无需编码即可开始高级用户体验监控（外形监控）！",
+      "url": "https://qiita.com/nr-mito/items/6021fb510d99df8d5e8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "简介\n在确保Web服务质量时，除了监控“服务器是否正常运行”这一基本的生存监控外，监控“用户是否能够正常使用服务”同样重要。使用New Relic的Synthetic监控，您可以定期访问网站或API，...",
+      "publishedAt": "2026-05-22T06:33:25.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "00d05b3cefe0437470f834c0173f3635964383fa9769bc980fda1a1b164a88da",
+      "source": "CyberAgent Developers",
+      "title": "与ABEMA移动应用程序的架构斗争",
+      "url": "https://developers.cyberagent.co.jp/blog/archives/63964/",
+      "summary": "简介  大家好！我是埼玉大学研究生院硕士二年级的半泽恭介。2026年4月...",
+      "publishedAt": "2026-05-22T04:03:02.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0fc0f776d26b3dd17157cd9e8d2eea351110b8cc26175b001f3a8c158d959cdc",
+      "source": "Google News Japan Tech",
+      "title": "举办“云计算：看、触、学！樱花云计算认证网络研讨会” - 樱花互联网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXFyTGl6MzRwOFE2Tl9sNmI2eWNlcmd5MWRhZUhKM1BOVWdhMTltcnZGUTlqT0ZOeDU5ZDcxWWRSMFJULWVaRnYyMjJTa0xhcjRJRE5CSmhEamNBSy1oWG1MN1JOTEh4X3J2cERrUURuc1V6V2pfV0FCOFZRN2xvN0tB?oc=5",
+      "summary": "举办“云计算：看、触、学！樱花云计算认证网络研讨会” - 樱花互联网",
+      "publishedAt": "2026-05-22T07:46:46.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "952f56c4e830dcd837ceea82d107319d849acce748639c52b03f730617896292",
+      "source": "Google News Japan Tech",
+      "title": "辞去三星集团并移居福冈，韩国工程师在日本感到“震惊”的事情是什么？（ITmedia 商业在线） - 雅虎新闻",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BVFhMLVctREV3b045MU8yMWJUVzdVVzdHSUx1RHBRNFZKNzZXbHN4TmVuT1BCcW1zQUNrT0tOYjRodUJXdWZtenZubFdFbnd2dHM2MlpBczlyZTNuQU9ReFJhQldXOGM5Rjdnc1k4ZjNmeTVDaTNNUnpDUUx6X2M?oc=5",
+      "summary": "辞去三星集团并移居福冈，韩国工程师在日本感到“震惊”的事情是什么？（ITmedia 商业在线） 雅虎新闻",
+      "publishedAt": "2026-05-22T02:45:12.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0ff82f3455752d63e70a7a2eca905213a305a5cf472a205f6621bc40fffd978d",
+      "source": "Google News Japan Tech",
+      "title": "2026年至2032年全球在线编程市场，市场规模（通用编程、大规模生产编程、特殊编程）分析报告发布 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83MjN0SkU1Nll4ajlVVzU0SlgwZDh0R1dxM1FfSjdnbXY5VGtWNlJqNlptaDA3LUVwY216bnlnVmdqMm53SGgxNWJxSkY0bFE?oc=5",
+      "summary": "2026年至2032年全球在线编程市场，市场规模（通用编程、大规模生产编程、特殊编程）分析报告发布 - アットプレス",
+      "publishedAt": "2026-05-22T03:30:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a7feffb56f64bbbf3e9d42186ec334f74dd332cc365b5abad0ed8752b22ccaa7",
+      "source": "Google News Japan Tech",
+      "title": "阿迪达斯 Samba OG \"云白/核心黑/透明花岗岩\" 24.5cm 二手 - SNKRDUNK",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91cENNUTZHdjVXdnRkaEx2ZVlDM0Z3bXF1T1NXWUppTzVXMmFBUzBLak5oVFBlSk9wTkpvTkw1WjRsVWZsQWRsY29jT0JFRkVyUzhsb1ZkMmEyaHNEVGpF?oc=5",
+      "summary": "阿迪达斯 Samba OG \"云白/核心黑/透明花岗岩\" 24.5cm 二手 SNKRDUNK",
+      "publishedAt": "2026-05-22T05:22:12.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-22T08:13:34.099Z"
+  }
+}

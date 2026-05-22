@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-22",
+  "lang": "en",
+  "featured": [
+    {
+      "id": "494be3662fd26539c8f6ca09e32a019a227685f0f22e0ada75276172954c112d",
+      "source": "Qiita Popular",
+      "title": "PLG Stack — 第1部：Prometheus・Loki・Grafanaを深く理解する",
+      "url": "https://qiita.com/luan_nguyen/items/acaa441d34a20de58f27?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "あなたのシステムは動いている——でも、本当に何をしているか把握できていますか？\n\nこれは PLG Stack シリーズ全2回の 第1部 です。各コンポーネントがどのように動作し、何のために使うのかを詳しく解説します。第2部 では、Docker Compose・Kubern...",
+      "publishedAt": "2026-05-22T06:50:30.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "PLG Stack — 第1部：Prometheus・Loki・Grafanaを深く理解する",
+      "suggestedSummary": "あなたのシステムは動いている——でも、本当に何をしているか把握できていますか？\n\nこれは PLG Stack シリーズ全2回の 第1部 です。各コンポーネントがどのように動作し、何のために使うのかを詳しく解説します。第2部 では、Docker Compose・Kubern...",
+      "category": "featured"
+    },
+    {
+      "id": "3fe3dbb03d79c2001565409e8cc73e9a811638585fb2f47db9e4110c74a73e2c",
+      "source": "Qiita Popular",
+      "title": "[Frontend Performance - Part 20] フロントエンドパフォーマンス改善 完全ロードマップ総まとめ",
+      "url": "https://qiita.com/tuanphan/items/1feeae0fc6ae30aa709d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "📝 注意\nこの記事はAIによる編集支援を受けています。\n\n📚 目次\n\n0. はじめに：「勘に頼った最適化」から「計測駆動型の改善プロセス」へ\n1. 振り返り：5つの基礎パートと8つの知識レベル\n2. 3つの柱となる知識の総まとめ\n3. 実践的な最適化ロードマップ –...",
+      "publishedAt": "2026-05-22T06:47:13.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "[Frontend Performance - Part 20] フロントエンドパフォーマンス改善 完全ロードマップ総まとめ",
+      "suggestedSummary": "📝 注意\nこの記事はAIによる編集支援を受けています。\n\n📚 目次\n\n0. はじめに：「勘に頼った最適化」から「計測駆動型の改善プロセス」へ\n1. 振り返り：5つの基礎パートと8つの知識レベル\n2. 3つの柱となる知識の総まとめ\n3. 実践的な最適化ロードマップ –...",
+      "category": "featured"
+    },
+    {
+      "id": "85abc6d32dd7de281a16fd4a2c2bc1ca9f2d907c2695d667b0c296460e20784d",
+      "source": "Qiita Popular",
+      "title": "Copilot Studio の新しい「ワークフロー」と従来の「エージェントフロー」の現時点での使い分けを整理してみる",
+      "url": "https://qiita.com/Takashi_Masumori/items/e01e47604bd36f8932fc?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nCopilot Studio のフローメニューを開くと、最近「新しいワークフロー」と「新しいエージェント フロー」の2つの選択肢が並ぶようになりました。\n\n「ワークフロー」を選んでみると、Build / Activity / Analytics の3タブで構成さ...",
+      "publishedAt": "2026-05-22T05:39:49.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "Copilot Studio の新しい「ワークフロー」と従来の「エージェントフロー」の現時点での使い分けを整理してみる",
+      "suggestedSummary": "はじめに\nCopilot Studio のフローメニューを開くと、最近「新しいワークフロー」と「新しいエージェント フロー」の2つの選択肢が並ぶようになりました。\n\n「ワークフロー」を選んでみると、Build / Activity / Analytics の3タブで構成さ...",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "5524e5a4f1b52f0c3dfc9597540a9a86ff01baecddf2585277c594e4df01aa5f",
+      "source": "Qiita Popular",
+      "title": "New Relic Synthetics Recorderを使って、ノーコードで高度なユーザー体験監視（外形監視）を始めよう！",
+      "url": "https://qiita.com/nr-mito/items/6021fb510d99df8d5e8e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめに\nWebサービスの品質を担保する上で、「サーバーが動いているか」という死活監視だけでなく、「ユーザーが正常にサービスを利用できているか」を監視することが重要です。\nNew RelicのSynthetic モニターを使えば、定期的にWebサイトやAPIにアクセスし、...",
+      "publishedAt": "2026-05-22T06:33:25.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "00d05b3cefe0437470f834c0173f3635964383fa9769bc980fda1a1b164a88da",
+      "source": "CyberAgent Developers",
+      "title": "ABEMAモバイルアプリのアーキテクチャと格闘する",
+      "url": "https://developers.cyberagent.co.jp/blog/archives/63964/",
+      "summary": "はじめに   はじめまして！埼玉大学大学院 修士2年の 半澤 恭介 です。 2026年4月 ...",
+      "publishedAt": "2026-05-22T04:03:02.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0fc0f776d26b3dd17157cd9e8d2eea351110b8cc26175b001f3a8c158d959cdc",
+      "source": "Google News Japan Tech",
+      "title": "「クラウドは見て触って学ぼう！さくらのクラウド検定ウェビナー」を開催いたします - さくらインターネット",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXFyTGl6MzRwOFE2Tl9sNmI2eWNlcmd5MWRhZUhKM1BOVWdhMTltcnZGUTlqT0ZOeDU5ZDcxWWRSMFJULWVaRnYyMjJTa0xhcjRJRE5CSmhEamNBSy1oWG1MN1JOTEh4X3J2cERrUURuc1V6V2pfV0FCOFZRN2xvN0tB?oc=5",
+      "summary": "「クラウドは見て触って学ぼう！さくらのクラウド検定ウェビナー」を開催いたします  さくらインターネット",
+      "publishedAt": "2026-05-22T07:46:46.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "952f56c4e830dcd837ceea82d107319d849acce748639c52b03f730617896292",
+      "source": "Google News Japan Tech",
+      "title": "「サムスンG」を辞めて福岡へ移住 韓国人エンジニアが日本で「衝撃を受けた」こととは？（ITmedia ビジネスオンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BVFhMLVctREV3b045MU8yMWJUVzdVVzdHSUx1RHBRNFZKNzZXbHN4TmVuT1BCcW1zQUNrT0tOYjRodUJXdWZtenZubFdFbnd2dHM2MlpBczlyZTNuQU9ReFJhQldXOGM5Rjdnc1k4ZjNmeTVDaTNNUnpDUUx6X2M?oc=5",
+      "summary": "「サムスンG」を辞めて福岡へ移住 韓国人エンジニアが日本で「衝撃を受けた」こととは？（ITmedia ビジネスオンライン）  Yahoo!ニュース",
+      "publishedAt": "2026-05-22T02:45:12.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "0ff82f3455752d63e70a7a2eca905213a305a5cf472a205f6621bc40fffd978d",
+      "source": "Google News Japan Tech",
+      "title": "インラインプログラミングの世界市場（2026年～2032年）、市場規模（汎用プログラミング、量産プログラミング、特殊プログラミング）・分析レポートを発表 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83MjN0SkU1Nll4ajlVVzU0SlgwZDh0R1dxM1FfSjdnbXY5VGtWNlJqNlptaDA3LUVwY216bnlnVmdqMm53SGgxNWJxSkY0bFE?oc=5",
+      "summary": "インラインプログラミングの世界市場（2026年～2032年）、市場規模（汎用プログラミング、量産プログラミング、特殊プログラミング）・分析レポートを発表  アットプレス",
+      "publishedAt": "2026-05-22T03:30:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "a7feffb56f64bbbf3e9d42186ec334f74dd332cc365b5abad0ed8752b22ccaa7",
+      "source": "Google News Japan Tech",
+      "title": "アディダス サンバ OG \"クラウドホワイト/コアブラック/クリアグラナイト\" 24.5cm 中古 - SNKRDUNK",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91cENNUTZHdjVXdnRkaEx2ZVlDM0Z3bXF1T1NXWUppTzVXMmFBUzBLak5oVFBlSk9wTkpvTkw1WjRsVWZsQWRsY29jT0JFRkVyUzhsb1ZkMmEyaHNEVGpF?oc=5",
+      "summary": "アディダス サンバ OG \"クラウドホワイト/コアブラック/クリアグラナイト\" 24.5cm 中古  SNKRDUNK",
+      "publishedAt": "2026-05-22T05:22:12.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 min",
+    "generatedAt": "2026-05-22T08:13:25.400Z"
+  }
+}
