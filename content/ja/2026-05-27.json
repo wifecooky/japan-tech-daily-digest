@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-27",
+  "lang": "ja",
+  "featured": [
+    {
+      "id": "7266c16c6a78bec23997a82dbdfa5a167d048482c328e42dbc862769d8394a87",
+      "source": "Qiita Popular",
+      "title": "1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」",
+      "url": "https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "はじめまして。株式会社PRUMでエンジニアをしているひとみです。日々、プログラミング学習や実務の中で、つまずきやすいポイントや、仕事で起きやすい“ズレ”について整理して発信しています。誰かの助けになれば幸いです。",
+      "publishedAt": "2026-05-27T05:52:26.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "1割の“信頼される”エンジニアがやっている「何の話かを省略しない説明」",
+      "suggestedSummary": "はじめまして。株式会社PRUMでエンジニアをしているひとみです。日々、プログラミング学習や実務の中で、つまずきやすいポイントや、仕事で起きやすい“ズレ”について整理して発信しています。誰かの助けになれば幸いです。",
+      "category": "featured"
+    },
+    {
+      "id": "b56443b4ca2ffe278440897fdd0b0fdd3961f4e4f1dac5bfbae4c1f4c9d2b1fa",
+      "source": "Qiita Popular",
+      "title": "【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選",
+      "url": "https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "「毎週の会議前に、議事録テンプレートを手で作っている」\n「請求書や見積書を、スプレッドシートから手作業で PDF 化している」\n「フォーム申請が来るたびに、承認者へメールを手で送っている」\n…こういう作業、まだ手でやってませんか？\n僕はやってました。むしろ「効率化のための...",
+      "publishedAt": "2026-05-27T04:39:16.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "【Claude Code / Codex × GAS】コピペ脱出！Google Workspace自動化レシピ7選",
+      "suggestedSummary": "「毎週の会議前に、議事録テンプレートを手で作っている」\n「請求書や見積書を、スプレッドシートから手作業で PDF 化している」\n「フォーム申請が来るたびに、承認者へメールを手で送っている」\n…こういう作業、まだ手でやってませんか？\n僕はやってました。むしろ「効率化のための...",
+      "category": "featured"
+    },
+    {
+      "id": "87f65a0a99e6e5e087f61fa5a78b4d4ca97c6e895d3e27227927e222f736eca4",
+      "source": "Qiita Popular",
+      "title": "【Reactテスト実践】Integration Testを書いてみた — RHF + TanStack Query編",
+      "url": "https://qiita.com/nhatcaofedev/items/e19b9b16f8534dc16a20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "Reactテスト実践 React Hook Form + TanStack Query のテストを書いてみた Part 3\n\nこのシリーズはフレッシャーFEがテストをゼロから学ぶ記録です。\n\nはじめに\n今回はいよいよ実務に直結するテストを書いていきます。でも実務のコ...",
+      "publishedAt": "2026-05-27T03:20:07.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "【Reactテスト実践】Integration Testを書いてみた — RHF + TanStack Query編",
+      "suggestedSummary": "Reactテスト実践 React Hook Form + TanStack Query のテストを書いてみた Part 3\n\nこのシリーズはフレッシャーFEがテストをゼロから学ぶ記録です。\n\nはじめに\n今回はいよいよ実務に直結するテストを書いていきます。でも実務のコ...",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "4b728352629404d25767bbae606f6893e0e9b66ddade183d1dc88cd7e088f4ef",
+      "source": "Qiita Popular",
+      "title": "【フロントエンドCSS】 CSSは「装飾」ではない ― ブラウザレンダリングの仕組みから理解するCSS",
+      "url": "https://qiita.com/tuanphan/items/eee7a8385ba6ce9344e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "注意\nこの記事はAIの補助を受けて編集しています。\n内容は大規模Webアプリケーションの実務経験に基づいています。\n\n1. 問題提起：なぜCSSは難しいのか？\nCSSの構文自体は難しくありません。\nしかし、プロダクション環境で保守可能かつスケールするCSSを書く...",
+      "publishedAt": "2026-05-27T04:24:33.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ad08c7f33a09c8d64be5ef4a81e88cb90bea0a632204798d372b5f9917b7cd9b",
+      "source": "Yahoo Japan Tech",
+      "title": "開発・運用分離のリアル ー SREの現場から見える課題と変化",
+      "url": "https://techblog.lycorp.co.jp/ja/20260527a",
+      "summary": "はじめに本記事では、弊社における「開発・運用分離（Dev/Ops分離）」の取り組みについて、LINE Platformの現場メンバーへのインタビューを通じて紹介します。一般的に、Dev/Ops分離はシ...",
+      "publishedAt": "2026-05-27T03:00:00.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "067a76a95d9ca673892753f07476f298921fb110fe3e74a89bebf7c8b34e2890",
+      "source": "Google News Japan Tech",
+      "title": "ソフトバンク、AIデータセンター向けGPUクラウドの提供を開始（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pbjl5SW5DNnYxTnQtSkJhcDRqRUFZLS04SU9rVy1rYmF6MUhuZy1TQXpraDlyWUF6Q3VRZHBnRDZMeWtmT0FfTjZET1JHbllMU0tWc0NnT2V1ekFzdFpXZHJzRlQtbXZOOW1wNzdUUU1sTEw2N2NWOUlmaXlmT0k?oc=5",
+      "summary": "ソフトバンクがAIデータセンター向けにGPUクラウドの提供を開始しました（ビジネス＋IT） Yahoo!ニュース",
+      "publishedAt": "2026-05-27T08:10:06.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7aa9c4097493f4565975c98f4f7257656f822a4a72248e034273e723bfc30967",
+      "source": "Google News Japan Tech",
+      "title": "ペイクラウドホールディングス[4015]：2026年4月 月次業績報告 2026年5月27日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ3B6TFVSNUpWbkdEVWVsbmdJX2s0Y0FNd2g0cXcxbFNYRlBneDlrejRsWWV6MG1IVWR4Uk9NUDhrRVoxckhmWUI3QVIxWGc4X2VGUkpQd082SnNkaDkzUDJ5TlpQUFI2WUx0NFJDY196VlBYUWVsVThFc053V005Q0FUNjhXTlFVOEhua294OHpPbHpOdkVJZkd5N1RNUXpvRUJkaG9DcVRaLTk0T1pXQWFOQzU1REx4eEljLTJ0R0czbFVZR0RCMU9mQ00?oc=5",
+      "summary": "ペイクラウドホールディングス[4015]：2026年4月 月次業績報告 2026年5月27日(適時開示) ：日経会社情報DIGITAL  日本経済新聞",
+      "publishedAt": "2026-05-27T08:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "24d4bddbee092d32c178c765e931f648e93c6270d0bc0f69d5767c61536f72a6",
+      "source": "Google News Japan Tech",
+      "title": "NEC、グループ全社に「調達交渉AIエージェント」を導入 独自AI技術「自動交渉AI」が基盤 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zUExKN1dyMGJ3Q3JtTV8tZUNfRkhFQmp3UnM0RWJ2TTNvQy1aa0pVdkVFOTlpekhOQnMzejVQd2N6U0dNbGo5cFMzcnQ1b1BQUmV3X0RR?oc=5",
+      "summary": "NECは、独自のAI技術「自動交渉AI」を基盤とした「調達交渉AIエージェント」をグループ全社に導入しました。 - EnterpriseZine",
+      "publishedAt": "2026-05-27T05:11:38.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ba51dadd564a25a3835a52f25f761ee96ad0457e682892b289c8d4e98d678287",
+      "source": "Google News Japan Tech",
+      "title": "JYOCHO、AI技術を活用した新曲「うたまひ」リリックビデオを公開 5月27日には新曲「山川草木」を先行配信 - 音楽業界総合情報サイト",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWlRLeTNOX1lkYW1PNkxUR3NibDBZLVhwdzMxU2NhZU5vUDZMQkZ3X0l2NkZObExzWVRtVm1fYTRpUnNXZ3oxNnF3RHo4QU1venc?oc=5",
+      "summary": "JYOCHOがAI技術を活用した新曲「うたまひ」のリリックビデオを公開しました。5月27日には新曲「山川草木」が先行配信されます。音楽業界総合情報サイト",
+      "publishedAt": "2026-05-27T07:23:26.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 分",
+    "generatedAt": "2026-05-27T08:24:39.624Z"
+  }
+}

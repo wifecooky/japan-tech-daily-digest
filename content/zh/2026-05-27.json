@@ -1,0 +1,121 @@
+{
+  "date": "2026-05-27",
+  "lang": "zh",
+  "featured": [
+    {
+      "id": "7266c16c6a78bec23997a82dbdfa5a167d048482c328e42dbc862769d8394a87",
+      "source": "Qiita Popular",
+      "title": "1成的“值得信赖”工程师所做的“不省略主题的解释”",
+      "url": "https://qiita.com/hitomin_poke/items/a8c2c14a72a417619c1d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "初次见面。我是株式会社PRUM的工程师瞳。每天，我都会整理并发布有关编程学习和实际工作中容易遇到的难点，以及工作中容易出现的“偏差”。希望能对某些人有所帮助。",
+      "publishedAt": "2026-05-27T05:52:26.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "1成的“值得信赖”工程师所做的“不省略主题的解释”",
+      "suggestedSummary": "初次见面。我是株式会社PRUM的工程师瞳。每天，我都会整理并发布有关编程学习和实际工作中容易遇到的难点，以及工作中容易出现的“偏差”。希望能对某些人有所帮助。",
+      "category": "featured"
+    },
+    {
+      "id": "b56443b4ca2ffe278440897fdd0b0fdd3961f4e4f1dac5bfbae4c1f4c9d2b1fa",
+      "source": "Qiita Popular",
+      "title": "【Claude Code / Codex × GAS】告别复制粘贴！Google Workspace自动化食谱7选",
+      "url": "https://qiita.com/TMiyamoto/items/47a13155032f716a43bd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "“每周会议前，我都手动制作会议记录模板。”\n“我将发票和报价单从电子表格手动转换为PDF。”\n“每次收到表单申请时，我都手动发送邮件给审批人。”\n……这些工作，你还在手动完成吗？\n我曾经也是这样。实际上，为了提高效率的...",
+      "publishedAt": "2026-05-27T04:39:16.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "【Claude Code / Codex × GAS】告别复制粘贴！Google Workspace自动化食谱7选",
+      "suggestedSummary": "“每周会议前，我都手动制作会议记录模板。”\n“我将发票和报价单从电子表格手动转换为PDF。”\n“每次收到表单申请时，我都手动发送邮件给审批人。”\n……这些工作，你还在手动完成吗？\n我曾经也是这样。实际上，为了提高效率的...",
+      "category": "featured"
+    },
+    {
+      "id": "87f65a0a99e6e5e087f61fa5a78b4d4ca97c6e895d3e27227927e222f736eca4",
+      "source": "Qiita Popular",
+      "title": "【React测试实践】编写集成测试 — RHF + TanStack Query篇",
+      "url": "https://qiita.com/nhatcaofedev/items/e19b9b16f8534dc16a20?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "React测试实践：编写React Hook Form + TanStack Query的测试 第3部分\n\n这个系列是记录一名新手前端工程师从零开始学习测试的过程。",
+      "publishedAt": "2026-05-27T03:20:07.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "reason": "Fallback: algorithm score",
+      "suggestedTitle": "【React测试实践】编写集成测试 — RHF + TanStack Query篇",
+      "suggestedSummary": "React测试实践：编写React Hook Form + TanStack Query的测试 第3部分\n\n这个系列是记录一名新手前端工程师从零开始学习测试的过程。",
+      "category": "featured"
+    }
+  ],
+  "quickNews": [
+    {
+      "id": "4b728352629404d25767bbae606f6893e0e9b66ddade183d1dc88cd7e088f4ef",
+      "source": "Qiita Popular",
+      "title": "【前端CSS】CSS不仅仅是“装饰”——从浏览器渲染机制理解CSS",
+      "url": "https://qiita.com/tuanphan/items/eee7a8385ba6ce9344e4?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
+      "summary": "注意\n本文在AI的辅助下进行了编辑。\n内容基于大型Web应用程序的实际经验。\n\n1. 问题提出：为什么CSS很难？\nCSS的语法本身并不难。\n然而，要在生产环境中编写可维护且可扩展的CSS...",
+      "publishedAt": "2026-05-27T04:24:33.000Z",
+      "score": 29,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ad08c7f33a09c8d64be5ef4a81e88cb90bea0a632204798d372b5f9917b7cd9b",
+      "source": "Yahoo Japan Tech",
+      "title": "开发与运维分离的现实——从SRE的角度看问题与变化",
+      "url": "https://techblog.lycorp.co.jp/ja/20260527a",
+      "summary": "在本文中，我们将通过对LINE平台现场成员的采访，介绍我们公司在“开发与运维分离（Dev/Ops分离）”方面的努力。一般来说，Dev/Ops分离是指...",
+      "publishedAt": "2026-05-27T03:00:00.000Z",
+      "score": 27,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "067a76a95d9ca673892753f07476f298921fb110fe3e74a89bebf7c8b34e2890",
+      "source": "Google News Japan Tech",
+      "title": "软银开始提供面向AI数据中心的GPU云服务（商业+IT） - 雅虎新闻",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pbjl5SW5DNnYxTnQtSkJhcDRqRUFZLS04SU9rVy1rYmF6MUhuZy1TQXpraDlyWUF6Q3VRZHBnRDZMeWtmT0FfTjZET1JHbllMU0tWc0NnT2V1ekFzdFpXZHJzRlQtbXZOOW1wNzdUUU1sTEw2N2NWOUlmaXlmT0k?oc=5",
+      "summary": "软银开始提供面向AI数据中心的GPU云服务（商业+IT） 雅虎新闻",
+      "publishedAt": "2026-05-27T08:10:06.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "7aa9c4097493f4565975c98f4f7257656f822a4a72248e034273e723bfc30967",
+      "source": "Google News Japan Tech",
+      "title": "佩克劳德控股[4015]：2026年4月月度业绩报告 2026年5月27日（及时披露）：日经公司信息DIGITAL - 日本经济新闻",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ3B6TFVSNUpWbkdEVWVsbmdJX2s0Y0FNd2g0cXcxbFNYRlBneDlrejRsWWV6MG1IVWR4Uk9NUDhrRVoxckhmWUI3QVIxWGc4X2VGUkpQd082SnNkaDkzUDJ5TlpQUFI2WUx0NFJDY196VlBYUWVsVThFc053V005Q0FUNjhXTlFVOEhua294OHpPbHpOdkVJZkd5N1RNUXpvRUJkaG9DcVRaLTk0T1pXQWFOQzU1REx4eEljLTJ0R0czbFVZR0RCMU9mQ00?oc=5",
+      "summary": "佩克劳德控股[4015]：2026年4月月度业绩报告 2026年5月27日（及时披露）：日经公司信息DIGITAL 日本经济新闻",
+      "publishedAt": "2026-05-27T08:00:00.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "24d4bddbee092d32c178c765e931f648e93c6270d0bc0f69d5767c61536f72a6",
+      "source": "Google News Japan Tech",
+      "title": "NEC在集团全公司引入“采购谈判AI代理” 基于自主AI技术“自动谈判AI”",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zUExKN1dyMGJ3Q3JtTV8tZUNfRkhFQmp3UnM0RWJ2TTNvQy1aa0pVdkVFOTlpekhOQnMzejVQd2N6U0dNbGo5cFMzcnQ1b1BQUmV3X0RR?oc=5",
+      "summary": "NEC在集团全公司引入“采购谈判AI代理” 基于自主AI技术“自动谈判AI” EnterpriseZine",
+      "publishedAt": "2026-05-27T05:11:38.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    },
+    {
+      "id": "ba51dadd564a25a3835a52f25f761ee96ad0457e682892b289c8d4e98d678287",
+      "source": "Google News Japan Tech",
+      "title": "JYOCHO 利用AI技术发布新曲《うたまひ》歌词视频 5月27日将提前发布新曲《山川草木》 - 音乐行业综合信息网站",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oWlRLeTNOX1lkYW1PNkxUR3NibDBZLVhwdzMxU2NhZU5vUDZMQkZ3X0l2NkZObExzWVRtVm1fYTRpUnNXZ3oxNnF3RHo4QU1venc?oc=5",
+      "summary": "JYOCHO 利用AI技术发布新曲《うたまひ》歌词视频 5月27日将提前发布新曲《山川草木》 音乐行业综合信息网站",
+      "publishedAt": "2026-05-27T07:23:26.000Z",
+      "score": 26,
+      "relatedCount": 0,
+      "category": "quickNews"
+    }
+  ],
+  "metadata": {
+    "totalArticles": 13,
+    "estimatedReadTime": "5 分钟",
+    "generatedAt": "2026-05-27T08:24:31.910Z"
+  }
+}
